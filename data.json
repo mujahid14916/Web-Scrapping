@@ -50,6 +50,7 @@
     {
         "category": [
             "Blockchains",
+            "Blockchains",
             "Hashing",
             "Software Testing"
         ],
@@ -449,7 +450,7 @@
     {
         "category": [
             "Algorithms",
-            ""
+            "Computer Architecture"
         ],
         "title": "Computer Science: Algorithms, Theory, and Machines",
         "partner": "Princeton University",
@@ -1980,7 +1981,7 @@
             "Compiler",
             "Computer Programming",
             "Operating System",
-            ""
+            "Computer Architecture"
         ],
         "title": "Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)",
         "partner": "Hebrew University of Jerusalem",
@@ -4295,7 +4296,7 @@
     },
     {
         "category": [
-            ""
+            "Computer Architecture"
         ],
         "title": "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)",
         "partner": "Hebrew University of Jerusalem",
