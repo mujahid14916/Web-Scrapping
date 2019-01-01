@@ -1,0 +1,1531 @@
+[
+    {
+        "category": [
+            "Linear Algebra",
+            "Discrete Fourier Transform",
+            "Fourier Analysis",
+            "Convolution",
+            "Digital Signal Processing",
+            "Data Transmission"
+        ],
+        "title": "Digital Signal Processing",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/dsp",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "INTERMEDIATE",
+        "users": 356
+    },
+    {
+        "category": [
+            "Linear Algebra",
+            "Matlab",
+            "Computer Programming"
+        ],
+        "title": "Robotics: Aerial Robotics",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-flight",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 1801
+    },
+    {
+        "category": [
+            "Electronics"
+        ],
+        "title": "Introduction to Electronics",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/electronics",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 34,
+        "level": "BEGINNER",
+        "users": 540
+    },
+    {
+        "category": [
+            "Electronics"
+        ],
+        "title": "Rob\u00f3tica",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/robotica-inicial",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 993
+    },
+    {
+        "category": [
+            "Electronics",
+            "Computer Programming",
+            "Robot",
+            "Arduino"
+        ],
+        "title": "Building Arduino robots and devices",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/arduino",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "BEGINNER",
+        "users": 171
+    },
+    {
+        "category": [
+            "Electronics"
+        ],
+        "title": "Electrones en Acci\u00f3n: Electr\u00f3nica y Arduinos para tus propios Inventos",
+        "partner": "Pontificia Universidad Cat\u00f3lica de Chile",
+        "link": "https://www.coursera.org/learn/electrones-en-accion",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 1373
+    },
+    {
+        "category": [
+            "Electronics",
+            "Audio Engineering"
+        ],
+        "title": "Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics",
+        "partner": "University of Rochester",
+        "link": "https://www.coursera.org/learn/audio-engineering",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 293
+    },
+    {
+        "category": [
+            "Architecture"
+        ],
+        "title": "Computer Architecture",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/comparch",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "ADVANCED",
+        "users": 333
+    },
+    {
+        "category": [
+            "Architecture",
+            "Astronomy"
+        ],
+        "title": "Archaeoastronomy",
+        "partner": "Politecnico di Milano",
+        "link": "https://www.coursera.org/learn/archaeoastronomy",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 327
+    },
+    {
+        "category": [
+            "Mechanical Engineering"
+        ],
+        "title": "Introduction to Engineering Mechanics",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/engineering-mechanics-statics",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 1240
+    },
+    {
+        "category": [
+            "Mechanical Engineering",
+            "Materials"
+        ],
+        "title": "Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/mechanics-1",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 540
+    },
+    {
+        "category": [
+            "Mechanical Engineering",
+            "Materials"
+        ],
+        "title": "Material Behavior",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/material-behavior",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 301
+    },
+    {
+        "category": [
+            "Energy Conversion",
+            "Energy Engineering",
+            "Energy",
+            "Energy Systems"
+        ],
+        "title": "Energy 101: The Big Picture",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/energy-101",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 418
+    },
+    {
+        "category": [
+            "Chemistry",
+            "Energy"
+        ],
+        "title": "Chemistry",
+        "partner": "University of Kentucky",
+        "link": "https://www.coursera.org/learn/chemistry-1",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "BEGINNER",
+        "users": 529
+    },
+    {
+        "category": [
+            "Chemistry"
+        ],
+        "title": "Introduction to Physical Chemistry",
+        "partner": "University of Manchester",
+        "link": "https://www.coursera.org/learn/physical-chemistry",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 262
+    },
+    {
+        "category": [
+            "Chemistry"
+        ],
+        "title": "General Chemistry: Concept Development and Application",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/general-chemistry",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 34,
+        "level": "BEGINNER",
+        "users": 234
+    },
+    {
+        "category": [
+            "Chemistry"
+        ],
+        "title": "Introduction to Chemistry: Structures and Solutions",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/basic-chemistry",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 70
+    },
+    {
+        "category": [
+            "Chemistry",
+            "Geology"
+        ],
+        "title": "Oceanography: a key to better understand our world",
+        "partner": "Universitat de Barcelona",
+        "link": "https://www.coursera.org/learn/oceanography",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 29
+    },
+    {
+        "category": [
+            "Estimation Theory",
+            "Estimation",
+            "Bayesian",
+            "Mapping"
+        ],
+        "title": "Robotics: Estimation and Learning",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-learning",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 300
+    },
+    {
+        "category": [
+            "Electronic Circuits"
+        ],
+        "title": "Linear Circuits 1: DC Analysis",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/linear-circuits-dcanalysis",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 37,
+        "level": "BEGINNER",
+        "users": 112
+    },
+    {
+        "category": [
+            "Fuel Efficiency"
+        ],
+        "title": "Act on Climate: Steps to Individual, Community, and Political Action",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/act-on-climate",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 27
+    },
+    {
+        "category": [
+            "Cybersecurity",
+            "Data Analysis",
+            "Internet Of Things",
+            "Big Data",
+            "Interoperability"
+        ],
+        "title": "Digital Manufacturing & Design Technology",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/specializations/digital-manufacturing-design-technology",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 10,
+        "duration": 58,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "Cyber Security in Manufacturing",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/cyber-security-manufacturing",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 56
+    },
+    {
+        "category": [
+            "Estimation",
+            "Matlab"
+        ],
+        "title": "Robotics: Perception",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-perception",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "INTERMEDIATE",
+        "users": 411
+    },
+    {
+        "category": [
+            "Digital Design"
+        ],
+        "title": "Introduction to FPGA Design for Embedded Systems",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/intro-fpga-design-embedded-systems",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "INTERMEDIATE",
+        "users": 158
+    },
+    {
+        "category": [
+            "Calibration",
+            "Matlab"
+        ],
+        "title": "Robotics: Capstone",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-capstone",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 63
+    },
+    {
+        "category": [
+            "Matlab",
+            "Mapping"
+        ],
+        "title": "Robotics",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/specializations/robotics",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 117,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Matlab",
+            "Digital Image Processing"
+        ],
+        "title": "Fundamentals of Digital Image and Video Processing",
+        "partner": "Northwestern University",
+        "link": "https://www.coursera.org/learn/digital",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 832
+    },
+    {
+        "category": [
+            "Matlab",
+            "Computation",
+            "A* Search Algorithm"
+        ],
+        "title": "Robotics: Computational Motion Planning",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-motion-planning",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 682
+    },
+    {
+        "category": [
+            "Matlab"
+        ],
+        "title": "Robotics: Mobility",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/robotics-mobility",
+        "rating": 3.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 402
+    },
+    {
+        "category": [
+            "Business Analysis",
+            "Business Analytics",
+            "Energy",
+            "Economics"
+        ],
+        "title": "Fundamentals of Global Energy Business",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/energy-business",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 296
+    },
+    {
+        "category": [
+            "Robotics",
+            "Robot"
+        ],
+        "title": "Modern Robotics: Mechanics, Planning, and Control",
+        "partner": "Northwestern University",
+        "link": "https://www.coursera.org/specializations/modernrobotics",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 98,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Robotics",
+            "Robot"
+        ],
+        "title": "Modern Robotics, Course 1: Foundations of Robot Motion",
+        "partner": "Northwestern University",
+        "link": "https://www.coursera.org/learn/modernrobotics-course1",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 82
+    },
+    {
+        "category": [
+            "Robotics"
+        ],
+        "title": "Modern Robotics, Course 2: Robot Kinematics",
+        "partner": "Northwestern University",
+        "link": "https://www.coursera.org/learn/modernrobotics-course2",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 30
+    },
+    {
+        "category": [
+            "Power Electronics"
+        ],
+        "title": "Power Electronics",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/specializations/power-electronics",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 130,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Power Electronics"
+        ],
+        "title": "Introduction to Power Electronics",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/power-electronics",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 1266
+    },
+    {
+        "category": [
+            "Power Electronics"
+        ],
+        "title": "Capstone Design Project in Power Electronics",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/power-electronics-capstone",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 52
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Python Programming",
+            "Internet Of Things",
+            "Debugging",
+            "Raspberry Pi"
+        ],
+        "title": "An Introduction to Programming the Internet of Things (IOT)",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/iot",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 62,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Python Programming",
+            "Raspberry Pi"
+        ],
+        "title": "Interfacing with the Raspberry Pi",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/raspberry-pi-interface",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 815
+    },
+    {
+        "category": [
+            "Engineering Design"
+        ],
+        "title": "Mechanics of Materials III: Beam Bending",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/beam-bending",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 206
+    },
+    {
+        "category": [
+            "Manufacturing Processes",
+            "Computer-Aided Design",
+            "Mechanical Design"
+        ],
+        "title": "CAD and Digital Manufacturing",
+        "partner": "Autodesk",
+        "link": "https://www.coursera.org/specializations/cad-design-digital-manufacturing",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 56,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Manufacturing Processes"
+        ],
+        "title": "Intro to Digital Manufacturing with Autodesk Fusion 360",
+        "partner": "Autodesk",
+        "link": "https://www.coursera.org/learn/introduction-digital-manufacturing-fusion-360",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 409
+    },
+    {
+        "category": [
+            "Aerospace Engineering"
+        ],
+        "title": "Fundamentals of Fluid-Solid Interactions",
+        "partner": "\u00c9cole Polytechnique",
+        "link": "https://www.coursera.org/learn/fluid-solid-interaction",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 176
+    },
+    {
+        "category": [
+            "Data Management",
+            "Workflow"
+        ],
+        "title": "GIS Data Formats, Design and Quality",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/gis-data",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 934
+    },
+    {
+        "category": [
+            "Arrays"
+        ],
+        "title": "Sistemas Digitales: De las puertas l\u00f3gicas al procesador",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/sistemas-digitales",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "BEGINNER",
+        "users": 163
+    },
+    {
+        "category": [
+            "Data Structure Alignment",
+            "Data Structure"
+        ],
+        "title": "Embedded Software and Hardware Architecture",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/embedded-software-hardware",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 19
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "title": "Digital Manufacturing & Design",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/digital-manufacturing-design",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 453
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Big Data"
+        ],
+        "title": "Advanced Manufacturing Process Analysis",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/advanced-manufacturing-process-analysis",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "BEGINNER",
+        "users": 130
+    },
+    {
+        "category": [
+            "Data Science",
+            "Materials"
+        ],
+        "title": "Materials Data Sciences and Informatics",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/material-informatics",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 66
+    },
+    {
+        "category": [
+            "Environmental Studies"
+        ],
+        "title": "The Age of Sustainable Development",
+        "partner": "Columbia University",
+        "link": "https://www.coursera.org/learn/sustainable-development",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 37,
+        "level": "BEGINNER",
+        "users": 1676
+    },
+    {
+        "category": [
+            "Energy Products"
+        ],
+        "title": "Municipal Solid Waste Management in Developing Countries",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/solid-waste-management",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 1238
+    },
+    {
+        "category": [
+            "Energy Pricing"
+        ],
+        "title": "Photovoltaic solar energy",
+        "partner": "\u00c9cole Polytechnique",
+        "link": "https://www.coursera.org/learn/photovoltaic-solar-energy",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 58
+    },
+    {
+        "category": [
+            "Energy Policy",
+            "Energy Efficiency",
+            "Demand"
+        ],
+        "title": "Electric Utilities Fundamentals and Future",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/electric-utilities",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 94
+    },
+    {
+        "category": [
+            "Civil Engineering"
+        ],
+        "title": "Fundamentals of Engineering Exam Review",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/fe-exam",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 44,
+        "level": "BEGINNER",
+        "users": 193
+    },
+    {
+        "category": [
+            "Computer-Aided Design"
+        ],
+        "title": "Autodesk Fusion 360 Integrated CAD/CAM/CAE",
+        "partner": "Autodesk",
+        "link": "https://www.coursera.org/learn/fusion-360-integrated-cad-cam-cae",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 261
+    },
+    {
+        "category": [
+            "Urban Planning",
+            "Green Energy"
+        ],
+        "title": "Greening the Economy: Sustainable Cities",
+        "partner": "Lund University",
+        "link": "https://www.coursera.org/learn/gte-sustainable-cities",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 776
+    },
+    {
+        "category": [
+            "Urban Planning",
+            "Energy Supply",
+            "Greenhouse Gas"
+        ],
+        "title": "Electric Vehicles and Mobility",
+        "partner": "\u00c9cole des Ponts ParisTech",
+        "link": "https://www.coursera.org/learn/electric-vehicles-mobility",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 83
+    },
+    {
+        "category": [
+            "Materials",
+            "Failure",
+            "Accuracy And Precision",
+            "Design Analysis"
+        ],
+        "title": "Machine Design Part I",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/machine-design1",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "INTERMEDIATE",
+        "users": 617
+    },
+    {
+        "category": [
+            "Materials"
+        ],
+        "title": "C\u00f3mo autoconstruir tu vivienda",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/como-autoconstruir-tu-vivienda",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 1163
+    },
+    {
+        "category": [
+            "Materials"
+        ],
+        "title": "Materials Science: 10 Things Every Engineer Should Know",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/materials-science",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 837
+    },
+    {
+        "category": [
+            "Materials"
+        ],
+        "title": "Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/mechanics2",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 252
+    },
+    {
+        "category": [
+            "Materials"
+        ],
+        "title": "Material Processing",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/material-science-engineering",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 150
+    },
+    {
+        "category": [
+            "Project Management",
+            "Risk Management",
+            "Scope (Project Management)",
+            "Engineering Management"
+        ],
+        "title": "Managing Major Engineering Projects",
+        "partner": "University of Leeds",
+        "link": "https://www.coursera.org/specializations/managing-major-engineering-projects",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 52,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Project Management",
+            "Engineering Management"
+        ],
+        "title": "Major Engineering Project Performance",
+        "partner": "University of Leeds",
+        "link": "https://www.coursera.org/learn/major-engineering-project-performance",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 50
+    },
+    {
+        "category": [
+            "Energy Solutions",
+            "Energy Consumption"
+        ],
+        "title": "Introduction to solar cells",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/solar-cells",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 465
+    },
+    {
+        "category": [
+            "Evolution"
+        ],
+        "title": "Origins - Formation of the Universe, Solar System, Earth and Life",
+        "partner": "University of Copenhagen",
+        "link": "https://www.coursera.org/learn/origins-universe-solarsystem",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "BEGINNER",
+        "users": 368
+    },
+    {
+        "category": [
+            "Embedded C",
+            "Embedded System Design",
+            "Build Automation"
+        ],
+        "title": "Introduction to Embedded Systems Software and Development Environments",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/introduction-embedded-systems",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 33,
+        "level": "INTERMEDIATE",
+        "users": 133
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "Oil & Gas Industry Operations and Markets",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/oilandgas",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 1178
+    },
+    {
+        "category": [
+            "Energy",
+            "Energy Analysis"
+        ],
+        "title": "Introduction to Thermodynamics: Transferring Energy from Here to There",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/thermodynamics-intro",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 543
+    },
+    {
+        "category": [
+            "Energy",
+            "Electrical Engineering"
+        ],
+        "title": "Energy Industry: Production, Distribution & Safety",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/specializations/energy-industry",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Energy",
+            "Electrical Engineering"
+        ],
+        "title": "Electric Power Systems",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/electric-power-systems",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 112
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "From the Big Bang to Dark Energy",
+        "partner": "The University of Tokyo",
+        "link": "https://www.coursera.org/learn/big-bang",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 1386
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "Advanced Chemistry",
+        "partner": "University of Kentucky",
+        "link": "https://www.coursera.org/learn/advanced-chemistry",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 342
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "Our Energy Future",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/future-of-energy",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 36,
+        "level": "BEGINNER",
+        "users": 421
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "Analyzing the Universe",
+        "partner": "Rutgers the State University of New Jersey",
+        "link": "https://www.coursera.org/learn/analyze",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "BEGINNER",
+        "users": 62
+    },
+    {
+        "category": [
+            "Energy"
+        ],
+        "title": "\u05de\u05d1\u05d5\u05d0 \u05dc\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05de\u05ea\u05d7\u05d3\u05e9\u05ea - Introduction to Renewable Energy",
+        "partner": "Tel Aviv University",
+        "link": "https://www.coursera.org/learn/renewable-energy",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 21
+    },
+    {
+        "category": [
+            "Electrical Design"
+        ],
+        "title": "Wind Energy",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/wind-energy",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 1282
+    },
+    {
+        "category": [
+            "Astrobiology",
+            "Solar Systems"
+        ],
+        "title": "Astrobiology and the Search for Extraterrestrial Life",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/astrobiology",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 1208
+    },
+    {
+        "category": [
+            "Computer Vision"
+        ],
+        "title": "Internet of Things",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/internet-of-things",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 73,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Computer Vision"
+        ],
+        "title": "Internet of Things: Multimedia Technologies",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/internet-of-things-multimedia",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 5,
+        "level": "BEGINNER",
+        "users": 81
+    },
+    {
+        "category": [
+            "Natural Resources"
+        ],
+        "title": "Global Environmental Management",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/global-environmental-management",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 256
+    },
+    {
+        "category": [
+            "Natural Resources",
+            "Biology"
+        ],
+        "title": "Wood Science: Beyond Building",
+        "partner": "West Virginia University",
+        "link": "https://www.coursera.org/learn/wood-science",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 80
+    },
+    {
+        "category": [
+            "Applied Machine Learning",
+            "Python Programming",
+            "Big Data"
+        ],
+        "title": "Data-driven Astronomy",
+        "partner": "The University of Sydney",
+        "link": "https://www.coursera.org/learn/data-driven-astronomy",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 300
+    },
+    {
+        "category": [
+            "Economy"
+        ],
+        "title": "Circular Economy - Sustainable Materials Management",
+        "partner": "Lund University",
+        "link": "https://www.coursera.org/learn/circular-economy",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 15
+    },
+    {
+        "category": [
+            "Economy"
+        ],
+        "title": "Greening the Economy: Lessons from Scandinavia",
+        "partner": "Lund University",
+        "link": "https://www.coursera.org/learn/greening-the-economy",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 346
+    },
+    {
+        "category": [
+            "Economy"
+        ],
+        "title": "A Circular Economy of Metals: Towards a Sustainable Societal Metabolism",
+        "partner": "Universiteit Leiden",
+        "link": "https://www.coursera.org/learn/circular-economy-metals",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 17
+    },
+    {
+        "category": [
+            "Geothermal Energy"
+        ],
+        "title": "Energy, Environment, and Everyday Life",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/energy-environment-life",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 34,
+        "level": "BEGINNER",
+        "users": 21
+    },
+    {
+        "category": [
+            "Energy Markets"
+        ],
+        "title": "Electric Industry Operations and Markets",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/electricity",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 156
+    },
+    {
+        "category": [
+            "Greenhouse Gas"
+        ],
+        "title": "Introduction to the Arctic: Climate",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/arctic-introduction-climate",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 167
+    },
+    {
+        "category": [
+            "Workflow"
+        ],
+        "title": "Fundamentals of GIS",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/gis",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 2220
+    },
+    {
+        "category": [
+            "Risk Management",
+            "Scope (Project Management)"
+        ],
+        "title": "Major Engineering Projects: Governance, Risk and Scope",
+        "partner": "University of Leeds",
+        "link": "https://www.coursera.org/learn/major-engineering-projects",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 12
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Computer Programming"
+        ],
+        "title": "Global Warming II: Create Your Own Models in Python",
+        "partner": "The University of Chicago",
+        "link": "https://www.coursera.org/learn/global-warming-model",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "BEGINNER",
+        "users": 31
+    },
+    {
+        "category": [
+            "Cabling"
+        ],
+        "title": "Applications in Engineering Mechanics",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/engineering-mechanics-statics-2",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 357
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "\u0421\u0442\u0440\u043e\u0438\u043c \u0440\u043e\u0431\u043e\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u043d\u0430 Arduino. \u041e\u0442 \u0441\u0432\u0435\u0442\u043e\u0444\u043e\u0440\u0430 \u0434\u043e 3D-\u043f\u0440\u0438\u043d\u0442\u0435\u0440\u0430",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/roboty-arduino",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 515
+    },
+    {
+        "category": [
+            "Environmental Protection"
+        ],
+        "title": "Ecosystem Services: a Method for Sustainable Development",
+        "partner": "University of Geneva",
+        "link": "https://www.coursera.org/learn/ecosystem-services",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "INTERMEDIATE",
+        "users": 108
+    },
+    {
+        "category": [
+            "Framing"
+        ],
+        "title": "Mastering bitumen for better roads and innovative applications",
+        "partner": "\u00c9cole des Ponts ParisTech",
+        "link": "https://www.coursera.org/learn/mastering-bitumen",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 93
+    },
+    {
+        "category": [
+            "Framing"
+        ],
+        "title": "Introduction to High-Throughput Materials Development",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/high-throughput",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 69
+    },
+    {
+        "category": [
+            "Internet Of Things"
+        ],
+        "title": "Digital Thread: Implementation",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/digital-thread-implementation",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 121
+    },
+    {
+        "category": [
+            "City Planning"
+        ],
+        "title": "Planning for Climate Change in African Cities",
+        "partner": "United Cities and Local Governments of Africa",
+        "link": "https://www.coursera.org/learn/climate-change-africa",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 45
+    },
+    {
+        "category": [
+            "Engineering Projects"
+        ],
+        "title": "Introduction to Public Health Engineering in Humanitarian Contexts",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/engineering-humanitarian",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 78
+    },
+    {
+        "category": [
+            "Solar Systems"
+        ],
+        "title": "Astronomy: Exploring Time and Space",
+        "partner": "University of Arizona",
+        "link": "https://www.coursera.org/learn/astro",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 50,
+        "level": "BEGINNER",
+        "users": 970
+    },
+    {
+        "category": [
+            "Solar Systems"
+        ],
+        "title": "The Science of the Solar System",
+        "partner": "Caltech",
+        "link": "https://www.coursera.org/learn/solar-system",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 45,
+        "level": "BEGINNER",
+        "users": 300
+    },
+    {
+        "category": [
+            "Interoperability"
+        ],
+        "title": "Digital Thread: Components",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/digital-thread-components",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 184
+    },
+    {
+        "category": [
+            "Mechanical Design"
+        ],
+        "title": "3D Model Creation with Autodesk Fusion 360",
+        "partner": "Autodesk",
+        "link": "https://www.coursera.org/learn/3d-model-creation-fusion-360",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "ADVANCED",
+        "users": 77
+    }
+]

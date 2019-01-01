@@ -1,0 +1,776 @@
+[
+    {
+        "category": [
+            "Google Services",
+            "Google",
+            "Identity Management",
+            "Cloud Computing"
+        ],
+        "title": "Introduction to Cloud Identity",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/cloud-identity",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 78
+    },
+    {
+        "category": [
+            "Cisco",
+            "Ip Address",
+            "Internet"
+        ],
+        "title": "Internet Connection: How to Get Online?",
+        "partner": "Cisco",
+        "link": "https://www.coursera.org/learn/internet-connection-how-to-get-online",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 811
+    },
+    {
+        "category": [
+            "Authentication",
+            "Subnetwork",
+            "Linux",
+            "Information Security",
+            "Ipsec"
+        ],
+        "title": "Computer Security and Systems Management",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/computer-security-systems-management",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 40,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Authentication",
+            "Linux"
+        ],
+        "title": "Linux Server Management and Security",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/linux-server-management-security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 128
+    },
+    {
+        "category": [
+            "Authentication"
+        ],
+        "title": "Windows Server Management and Security",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/windows-server-management-security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 91
+    },
+    {
+        "category": [
+            "D3.Js"
+        ],
+        "title": "Information Visualization: Programming with D3.js",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/learn/information-visualization-programming-d3js",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 22
+    },
+    {
+        "category": [
+            "Cybersecurity",
+            "Penetration Test",
+            "Data Breaches"
+        ],
+        "title": "Cybersecurity for Business",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/cyber-security-business",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 44,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "Introduction to Cybersecurity for Business",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/intro-cyber-security-business",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 217
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "Palo Alto Networks Cybersecurity",
+        "partner": "Palo Alto Networks",
+        "link": "https://www.coursera.org/specializations/palo-alto-networks-cybersecurity",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 47,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "Palo Alto Networks Academy Cybersecurity Foundation",
+        "partner": "Palo Alto Networks",
+        "link": "https://www.coursera.org/learn/cybersecurity-foundation",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 35
+    },
+    {
+        "category": [
+            "Ethernet",
+            "Ip Address",
+            "Network Protocols",
+            "Network Architecture",
+            "Unicast",
+            "Ipv4"
+        ],
+        "title": "Network Protocols and Architecture",
+        "partner": "Cisco",
+        "link": "https://www.coursera.org/learn/network-protocols-architecture",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 456
+    },
+    {
+        "category": [
+            "Sql",
+            "Join (Sql)",
+            "Applied Machine Learning",
+            "Machine Learning",
+            "Data Visualization",
+            "Bigquery"
+        ],
+        "title": "From Data to Insights with Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Sql",
+            "Exploratory Data Analysis",
+            "Bigquery"
+        ],
+        "title": "Exploring and Preparing your Data with BigQuery",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 560
+    },
+    {
+        "category": [
+            "Network Model",
+            "Network Layer",
+            "Domain Name System",
+            "Troubleshooting",
+            "Networking Hardware",
+            "Ipv4"
+        ],
+        "title": "The Bits and Bytes of Computer Networking",
+        "partner": "Google",
+        "link": "https://www.coursera.org/learn/computer-networking",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 4631
+    },
+    {
+        "category": [
+            "Penetration Test"
+        ],
+        "title": "Proactive Computer Security",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/proactive-computer-security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 54
+    },
+    {
+        "category": [
+            "Process Management",
+            "Customer Service",
+            "Problem Solving",
+            "Customer Engagement"
+        ],
+        "title": "IBM Customer Engagement Specialist Professional Certificate",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/ibm-customer-engagement-specialist",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 22
+    },
+    {
+        "category": [
+            "Google Cloud Platform"
+        ],
+        "title": "Google Cloud Platform Fundamentals: Core Infrastructure",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 8126
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Network Planning And Design",
+            "Subnetwork",
+            "Troubleshooting",
+            "Cloud Computing"
+        ],
+        "title": "Networking in Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/networking-google-cloud-platform",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Database"
+        ],
+        "title": "Architecting with Google Cloud Platform en Espa\u00f1ol",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/gcp-architecture-es",
+        "rating": 4.9,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 44,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Database"
+        ],
+        "title": "Google Cloud Platform Fundamentals: Core Infrastructure en Espa\u00f1ol",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals-es",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 62
+    },
+    {
+        "category": [
+            "Network Planning And Design",
+            "Troubleshooting",
+            "Cloud Computing"
+        ],
+        "title": "Networking in GCP: Hybrid Connectivity and Network Management",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 94
+    },
+    {
+        "category": [
+            "Join (Sql)",
+            "Google",
+            "Data Visualization",
+            "Bigquery"
+        ],
+        "title": "Creating New BigQuery Datasets and Visualizing Insights",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 5,
+        "level": "BEGINNER",
+        "users": 315
+    },
+    {
+        "category": [
+            "Scalability",
+            "Disaster Recovery",
+            "Presentation Layer"
+        ],
+        "title": "Reliable Cloud Infrastructure: Design and Process",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/cloud-infrastructure-design-process",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 1250
+    },
+    {
+        "category": [
+            "Information Visualization"
+        ],
+        "title": "Information Visualization: Foundations",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/learn/information-visualization-fundamentals",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 27
+    },
+    {
+        "category": [
+            "Cloud Storage",
+            "Data Store",
+            "Stack (Abstract Data Type)",
+            "Debugging"
+        ],
+        "title": "Essential Cloud Infrastructure: Core Services",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-infrastructure-core-services",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 2468
+    },
+    {
+        "category": [
+            "Load Balancing",
+            "Deployment Environment",
+            "Virtual Private Networks"
+        ],
+        "title": "Elastic Cloud Infrastructure: Scaling and Automation",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-infrastructure-scaling-automation",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 1913
+    },
+    {
+        "category": [
+            "Ip Address",
+            "Network Protocols",
+            "Command-Line Interface",
+            "Network Architecture",
+            "Troubleshooting",
+            "Switches",
+            "Ipv4"
+        ],
+        "title": "Cisco Networking Basics",
+        "partner": "Cisco",
+        "link": "https://www.coursera.org/specializations/networking-basics",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 53,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Subnetwork",
+            "Peering"
+        ],
+        "title": "Networking in GCP: Defining and Implementing Networks",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/networking-gcp-defining-implementing-networks",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 137
+    },
+    {
+        "category": [
+            "Subnetwork",
+            "Information Security",
+            "Ipsec"
+        ],
+        "title": "Enterprise System Management and Security",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/enterprise-system-management-security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 128
+    },
+    {
+        "category": [
+            "Network Protocols",
+            "Communications Protocol",
+            "Network Service",
+            "Data Transmission",
+            "Internet Protocol Suite"
+        ],
+        "title": "Data Communications and Network Services",
+        "partner": "Cisco",
+        "link": "https://www.coursera.org/learn/data-communication-network-services",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 330
+    },
+    {
+        "category": [
+            "Command-Line Interface",
+            "Linux",
+            "Troubleshooting",
+            "Operating System",
+            "Maintenance, Repair, And Operations"
+        ],
+        "title": "Operating Systems and You: Becoming a Power User",
+        "partner": "Google",
+        "link": "https://www.coursera.org/learn/os-power-user",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 2813
+    },
+    {
+        "category": [
+            "Command-Line Interface",
+            "Computer Network",
+            "Troubleshooting",
+            "Switches"
+        ],
+        "title": "Introduction to Cisco Networking",
+        "partner": "Cisco",
+        "link": "https://www.coursera.org/learn/cisco-networking-introduction",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 230
+    },
+    {
+        "category": [
+            "Applied Machine Learning",
+            "Machine Learning"
+        ],
+        "title": "Applying Machine Learning to your Data with GCP",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/data-insights-gcp-apply-ml",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 177
+    },
+    {
+        "category": [
+            "Continuous Delivery",
+            "Deployment Environment"
+        ],
+        "title": "Getting Started with Google Kubernetes Engine",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/google-kubernetes-engine",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 1217
+    },
+    {
+        "category": [
+            "Google Compute Engine",
+            "Virtual Private Networks",
+            "Virtual Machine"
+        ],
+        "title": "Essential Cloud Infrastructure: Foundation",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-infrastructure-foundation",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 3604
+    },
+    {
+        "category": [
+            "Linux",
+            "Troubleshooting",
+            "Operating System",
+            "Networking Hardware"
+        ],
+        "title": "Technical Support Fundamentals",
+        "partner": "Google",
+        "link": "https://www.coursera.org/learn/technical-support-fundamentals",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 9343
+    },
+    {
+        "category": [
+            "Google App Engine",
+            "Google Container Engine"
+        ],
+        "title": "Elastic Cloud Infrastructure: Containers and Services",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-infrastructure-containers-services",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 3,
+        "level": "INTERMEDIATE",
+        "users": 1744
+    },
+    {
+        "category": [
+            "Network Security"
+        ],
+        "title": "IT Security: Defense against the digital dark arts",
+        "partner": "Google",
+        "link": "https://www.coursera.org/learn/it-security",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 1576
+    },
+    {
+        "category": [
+            "Troubleshooting",
+            "Backup"
+        ],
+        "title": "System Administration and IT Infrastructure Services",
+        "partner": "Google",
+        "link": "https://www.coursera.org/learn/system-administration-it-infrastructure-services",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 2077
+    },
+    {
+        "category": [
+            "K-Means Clustering"
+        ],
+        "title": "Introducci\u00f3n a la Miner\u00eda de Datos",
+        "partner": "Pontificia Universidad Cat\u00f3lica de Chile",
+        "link": "https://www.coursera.org/learn/mineria-de-datos-introduccion",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 67
+    },
+    {
+        "category": [
+            "Data Breaches",
+            "System F"
+        ],
+        "title": "Cyber Threats and Attack Vectors",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/cyber-threats-attack-vectors",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 128
+    },
+    {
+        "category": [
+            "Internet Of Things",
+            "Wi-Fi"
+        ],
+        "title": "Emerging Technologies: From Smartphones to IoT to Big Data",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/specializations/emerging-technologies",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 61,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Internet Of Things"
+        ],
+        "title": "Intel\u00ae Network Academy - Network Transformation 101",
+        "partner": "Intel",
+        "link": "https://www.coursera.org/learn/network-transformation-101",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 9
+    },
+    {
+        "category": [
+            "Internet Of Things",
+            "Wi-Fi"
+        ],
+        "title": "IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/learn/iot-wireless-cloud-computing",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 31
+    },
+    {
+        "category": [
+            "Microservices",
+            "Devops",
+            "Kubernetes",
+            "Cloud Computing",
+            "Software As A Service"
+        ],
+        "title": "IBM Microservices",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/specializations/ibm-microservices",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 24,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Microservices",
+            "Devops",
+            "Software As A Service"
+        ],
+        "title": "Microservices - Fundamentals",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/intro-ibm-microservices",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 326
+    },
+    {
+        "category": [
+            "Mongodb"
+        ],
+        "title": "Introduction to MongoDB",
+        "partner": "MongoDB Inc.",
+        "link": "https://www.coursera.org/learn/introduction-mongodb",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 98
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "Google Cloud Platform Fundamentals: Core Infrastructure em Portugu\u00eas Brasileiro",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals-br",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 14
+    },
+    {
+        "category": [
+            "Bigquery"
+        ],
+        "title": "Achieving Advanced Insights with BigQuery",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-advanced-insights-bigquery",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 229
+    }
+]

@@ -1,0 +1,1008 @@
+[
+    {
+        "category": [
+            "Advertising",
+            "Analytical Skills",
+            "Media Literacy",
+            "News"
+        ],
+        "title": "English for Media Literacy",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/media",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 621
+    },
+    {
+        "category": [
+            "Business Writing",
+            "English Grammar",
+            "Writing"
+        ],
+        "title": "Better Business Writing in English",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/business-writing-english",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 51
+    },
+    {
+        "category": [
+            "Business Writing",
+            "Writing"
+        ],
+        "title": "English for Effective Business Writing",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/english-for-business-writing",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 111
+    },
+    {
+        "category": [
+            "Email Writing",
+            "Presentation",
+            "Speech",
+            "Communication",
+            "Professional",
+            "English Language",
+            "Stress",
+            "Writing"
+        ],
+        "title": "Improve Your English Communication Skills",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/specializations/improve-english",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 56,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Email Writing",
+            "Professional",
+            "Writing"
+        ],
+        "title": "Write Professional Emails in English",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/professional-emails-english",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 2377
+    },
+    {
+        "category": [
+            "Presentation",
+            "Professional",
+            "Language",
+            "Confidence",
+            "Stress"
+        ],
+        "title": "Speak English Professionally: In Person, Online & On the Phone",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/speak-english-professionally",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 1887
+    },
+    {
+        "category": [
+            "Presentation",
+            "Business Plan",
+            "Planning",
+            "Communication",
+            "Meeting",
+            "Business Communication",
+            "Language",
+            "English Language"
+        ],
+        "title": "Business English Communication Skills",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/specializations/business-english",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 101,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Presentation",
+            "Nonverbal Communication",
+            "Lecture",
+            "Confidence",
+            "Note Taking"
+        ],
+        "title": "Learn English: Advanced Academic Speaking and Listening",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/speaklistenenglish",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 81,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Presentation",
+            "Emailing",
+            "Leadership",
+            "Speech",
+            "Meeting",
+            "Business Communication",
+            "Marketing",
+            "English Language"
+        ],
+        "title": "Business English",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/specializations/english-for-business",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 65,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Presentation",
+            "Nonverbal Communication",
+            "Confidence"
+        ],
+        "title": "Presentations: Speaking so that People Listen",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/presentations-speaking-so-that-people-listen",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 95
+    },
+    {
+        "category": [
+            "Presentation",
+            "Communication",
+            "Coaching",
+            "Elevator Pitch",
+            "Meeting",
+            "Marketing",
+            "English Language",
+            "Writing"
+        ],
+        "title": "Ingl\u00e9s Empresarial",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/specializations/ingles-empresarial",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 76,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Presentation",
+            "Sign"
+        ],
+        "title": "Business English: Making Presentations",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/business-english-presentations",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 150
+    },
+    {
+        "category": [
+            "Presentation",
+            "Speech",
+            "Business Communication",
+            "Marketing",
+            "English Language"
+        ],
+        "title": "Business English: Marketing and Sales",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/marketing-sales-english",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 84
+    },
+    {
+        "category": [
+            "Presentation",
+            "Speech",
+            "Professional",
+            "English Language",
+            "Writing"
+        ],
+        "title": "Take Your English Communication Skills to the Next Level",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/english-communication-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 49
+    },
+    {
+        "category": [
+            "Presentation",
+            "Sales",
+            "Sales Presentation",
+            "Elevator Pitch",
+            "Meeting",
+            "Marketing",
+            "Psychology",
+            "English Language"
+        ],
+        "title": "Ingl\u00e9s Empresarial: el m\u00e1rketing y ventas",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/ingles-empresarial-marketing-ventas",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 97
+    },
+    {
+        "category": [
+            "Emailing",
+            "Communication",
+            "Meeting",
+            "Management"
+        ],
+        "title": "Business English: Management and Leadership",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/management-leadership-english",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 217
+    },
+    {
+        "category": [
+            "Leadership",
+            "Win-Win Game",
+            "Business Communication",
+            "Finance",
+            "Economics",
+            "English Language"
+        ],
+        "title": "Business English: Finance and Economics",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/finance-economics-english",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 95
+    },
+    {
+        "category": [
+            "Perfect Tenses"
+        ],
+        "title": "Teach English: Intermediate Grammar",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/teach-english",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 75,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Perfect Tenses"
+        ],
+        "title": "Strategies for Teaching Perfect Tenses and Modals",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/teaching-verb-tenses-modals",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "INTERMEDIATE",
+        "users": 31
+    },
+    {
+        "category": [
+            "Business Plan",
+            "Market Research",
+            "Language"
+        ],
+        "title": "English for Business and Entrepreneurship",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/business",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 1264
+    },
+    {
+        "category": [
+            "Business Plan",
+            "English Language"
+        ],
+        "title": "Business English: Capstone Project",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/business-english-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 34
+    },
+    {
+        "category": [
+            "Plan",
+            "Speech",
+            "Teaching"
+        ],
+        "title": "TESOL Certificate, Part 2: Teach English Now!",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/specializations/tesol-certificate-2",
+        "rating": 4.9,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 74,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Plan",
+            "Speech",
+            "Teaching"
+        ],
+        "title": "Teach English Now! Second Language Listening, Speaking, and Pronunciation",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/tesol-speaking",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 605
+    },
+    {
+        "category": [
+            "Plan",
+            "Teaching"
+        ],
+        "title": "Teach English Now! Technology Enriched Teaching",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/tesol-technology",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 512
+    },
+    {
+        "category": [
+            "Planning",
+            "Business Communication",
+            "Language"
+        ],
+        "title": "Business English: Planning & Negotiating",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/business-english-negotiating",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "INTERMEDIATE",
+        "users": 180
+    },
+    {
+        "category": [
+            "Essay Writing",
+            "Quotation",
+            "Creative Writing",
+            "Writing"
+        ],
+        "title": "Advanced Writing",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/advanced-writing",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 602
+    },
+    {
+        "category": [
+            "Essay Writing"
+        ],
+        "title": "Writing your World: Finding yourself in the academic space",
+        "partner": "University of Cape Town",
+        "link": "https://www.coursera.org/learn/writing-your-world",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 42
+    },
+    {
+        "category": [
+            "Academic Writing",
+            "English Grammar",
+            "English Language"
+        ],
+        "title": "English for Research Publication Purposes",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/specializations/english-for-research-publication-purposes",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 76,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Academic Writing",
+            "English Grammar",
+            "English Language"
+        ],
+        "title": "Academic Literacy",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/academic-literacy",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 96
+    },
+    {
+        "category": [
+            "Academic Writing"
+        ],
+        "title": "Scholarly Communication",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/scholarly-communication",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 123
+    },
+    {
+        "category": [
+            "Career Development",
+            "Professional",
+            "Confidence",
+            "Writing"
+        ],
+        "title": "English for Career Development",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/careerdevelopment",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 1749
+    },
+    {
+        "category": [
+            "Communication",
+            "Professional",
+            "Meeting",
+            "Language",
+            "Message",
+            "Confidence"
+        ],
+        "title": "Business English: Networking",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/business-english-intro",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 792
+    },
+    {
+        "category": [
+            "Communication",
+            "Business Case Analysis",
+            "Business Communication",
+            "Linguistics"
+        ],
+        "title": "Business English: Basics",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/business-english",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 295
+    },
+    {
+        "category": [
+            "Communication",
+            "Professional",
+            "Writing"
+        ],
+        "title": "Build Your Professional ePortfolio in English",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/eportfolio-english",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 214
+    },
+    {
+        "category": [
+            "Communication",
+            "Communications Management",
+            "Coaching",
+            "Meeting",
+            "Writing"
+        ],
+        "title": "Ingl\u00e9s Empresarial: Gesti\u00f3n y Liderazgo",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/ingles-empresarial-gestion-liderazgo",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 464
+    },
+    {
+        "category": [
+            "Communication",
+            "Budget",
+            "Language"
+        ],
+        "title": "Ingl\u00e9s Empresarial: Finanzas y Econom\u00eda",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/ingles-empresarial-finanzas-economia",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 152
+    },
+    {
+        "category": [
+            "Language Acquisition",
+            "Language",
+            "Utility"
+        ],
+        "title": "Chinese for Beginners",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/learn-chinese",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 3697
+    },
+    {
+        "category": [
+            "Korean Language"
+        ],
+        "title": "Learn to Speak Korean 1",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/learn/learn-speak-korean1",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 1350
+    },
+    {
+        "category": [
+            "Professional",
+            "Meeting",
+            "English Language"
+        ],
+        "title": "Business English: Meetings",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/business-english-meetings",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 308
+    },
+    {
+        "category": [
+            "Chinese Language"
+        ],
+        "title": "Learn Mandarin Chinese",
+        "partner": "Shanghai Jiao Tong University",
+        "link": "https://www.coursera.org/specializations/learn-mandarin",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 57,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Chinese Language"
+        ],
+        "title": "Learning Chinese : Start From Scratch (\u96f6\u5230\u4e00\u5b78\u4e2d\u6587)",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/learn-chinese-mandarin",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 20
+    },
+    {
+        "category": [
+            "Chinese Language"
+        ],
+        "title": "Chinese Characters for beginner \u6c49\u5b57",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/hanzi",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 135
+    },
+    {
+        "category": [
+            "Chinese Language"
+        ],
+        "title": "\u4e2d\u7ea7\u5546\u52a1\u6c49\u8bed\uff08\u5165\u804c\u4e0e\u8425\u9500\u7bc7\uff09",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/business-chinese",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 49
+    },
+    {
+        "category": [
+            "Chinese Language"
+        ],
+        "title": "Mandarin Chinese 2: Chinese for Beginners",
+        "partner": "Shanghai Jiao Tong University",
+        "link": "https://www.coursera.org/learn/mandarin-chinese-2",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 67
+    },
+    {
+        "category": [
+            "Lecture",
+            "Confidence",
+            "Note Taking"
+        ],
+        "title": "Academic Listening and Note-Taking",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/note-taking",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "INTERMEDIATE",
+        "users": 213
+    },
+    {
+        "category": [
+            "Language",
+            "Utility",
+            "Writing",
+            "Grammar"
+        ],
+        "title": "First Step Korean",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/learn/learn-korean",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 4433
+    },
+    {
+        "category": [
+            "Editing",
+            "English Language"
+        ],
+        "title": "English for Journalism",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/journalism",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 1075
+    },
+    {
+        "category": [
+            "Editing"
+        ],
+        "title": "Writing for Young Readers: Opening the Treasure Chest",
+        "partner": "Commonwealth Education Trust",
+        "link": "https://www.coursera.org/learn/writing-for-children",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 814
+    },
+    {
+        "category": [
+            "English Grammar",
+            "English Language",
+            "Adjective"
+        ],
+        "title": "Learn English: Intermediate Grammar",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/intermediate-grammar",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 62,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "English Grammar",
+            "English Language",
+            "Adjective"
+        ],
+        "title": "English for Science, Technology, Engineering, and Mathematics",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/stem",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 650
+    },
+    {
+        "category": [
+            "English Grammar"
+        ],
+        "title": "Perfect Tenses and Modals",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/perfect-tenses-modals",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 925
+    },
+    {
+        "category": [
+            "English Grammar",
+            "Grammar"
+        ],
+        "title": "Learn English: Advanced Grammar and Punctuation",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/advanced-grammar-punctuation",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 65,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "English Grammar"
+        ],
+        "title": "Tricky English Grammar",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/tricky-english-grammar",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 421
+    },
+    {
+        "category": [
+            "English Grammar"
+        ],
+        "title": "Conjunctions, Connectives, and Adverb Clauses",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/conjunctions-connectives-adverb-clauses",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 156
+    },
+    {
+        "category": [
+            "Teaching",
+            "English Language"
+        ],
+        "title": "English for Teaching Purposes",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/teaching-english",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 174
+    },
+    {
+        "category": [
+            "English Language"
+        ],
+        "title": "Intermediate Grammar Project",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/intermediate-grammar-capstone",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 29
+    },
+    {
+        "category": [
+            "Writing",
+            "Punctuation",
+            "Grammar"
+        ],
+        "title": "Grammar and Punctuation",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/grammar-punctuation",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 6524
+    },
+    {
+        "category": [
+            "Writing"
+        ],
+        "title": "Project: Writing a Research Paper",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/academic-writing-capstone",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 70
+    },
+    {
+        "category": [
+            "Adjective"
+        ],
+        "title": "Adjectives and Adjective Clauses",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/adjective-clauses",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 363
+    },
+    {
+        "category": [
+            "Grammar"
+        ],
+        "title": "Learn Spanish: Basic Spanish Vocabulary",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/specializations/learn-spanish",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 84,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Grammar"
+        ],
+        "title": "Verb Tenses and Passives",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/verb-passives",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 331
+    },
+    {
+        "category": [
+            "Grammar"
+        ],
+        "title": "More Chinese for Beginners",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/more-chinese-for-beginners",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 334
+    },
+    {
+        "category": [
+            "Grammar"
+        ],
+        "title": "Spanish Vocabulary: Cultural Experience",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/spanish-vocabulary-cultural-experience",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 88
+    }
+]

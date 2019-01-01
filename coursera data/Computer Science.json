@@ -1,0 +1,4479 @@
+[
+    {
+        "category": [
+            "Authentication",
+            "Node.Js"
+        ],
+        "title": "Full-Stack Web Development with React",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/specializations/full-stack-react",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 120,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Authentication",
+            "Representational State Transfer",
+            "Node.Js"
+        ],
+        "title": "Server-side Development with NodeJS, Express and MongoDB",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/server-side-nodejs",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "INTERMEDIATE",
+        "users": 441
+    },
+    {
+        "category": [
+            "Authentication",
+            "Routing",
+            "Representational State Transfer",
+            "Database"
+        ],
+        "title": "Rails with Active Record and Action Pack",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/rails-with-active-record",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 686
+    },
+    {
+        "category": [
+            "Blockchains",
+            "Blockchains",
+            "Hashing",
+            "Software Testing"
+        ],
+        "title": "Blockchain",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/specializations/blockchain",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 38,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Blockchains",
+            "Hashing"
+        ],
+        "title": "Blockchain Basics",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/blockchain-basics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 1032
+    },
+    {
+        "category": [
+            "Blockchains",
+            "Use Case"
+        ],
+        "title": "IBM Blockchain Foundation for Developers",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 1110
+    },
+    {
+        "category": [
+            "Functional Programming",
+            "Streams",
+            "Big Data"
+        ],
+        "title": "Functional Programming in Scala",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/specializations/scala",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 78,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Functional Programming"
+        ],
+        "title": "Functional Programming Principles in Scala",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/progfun1",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 5716
+    },
+    {
+        "category": [
+            "Functional Programming",
+            "Streams"
+        ],
+        "title": "Kotlin for Java Developers",
+        "partner": "JetBrains",
+        "link": "https://www.coursera.org/learn/kotlin-for-java-developers",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 133
+    },
+    {
+        "category": [
+            "Functional Programming",
+            "Programming Language",
+            "Recursion"
+        ],
+        "title": "Programming Languages, Part A",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/programming-languages",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 35,
+        "level": "INTERMEDIATE",
+        "users": 899
+    },
+    {
+        "category": [
+            "Functional Programming",
+            "Programming Language"
+        ],
+        "title": "Programming Languages, Part B",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/programming-languages-part-b",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 380
+    },
+    {
+        "category": [
+            "Linear Programming",
+            "Algorithms",
+            "Data Structure",
+            "Dynamic Programming",
+            "Graph Algorithms"
+        ],
+        "title": "Data Structures and Algorithms",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/data-structures-algorithms",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 130,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Linear Programming"
+        ],
+        "title": "Discrete Optimization",
+        "partner": "The University of Melbourne",
+        "link": "https://www.coursera.org/learn/discrete-optimization",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 34,
+        "level": "INTERMEDIATE",
+        "users": 238
+    },
+    {
+        "category": [
+            "Linear Programming"
+        ],
+        "title": "Advanced Algorithms and Complexity",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/advanced-algorithms-and-complexity",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "ADVANCED",
+        "users": 239
+    },
+    {
+        "category": [
+            "Agile Software Development",
+            "Scrum (Software Development)",
+            "Software Project Management"
+        ],
+        "title": "Software Product Management",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/specializations/product-management",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 79,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Agile Software Development",
+            "Software Development"
+        ],
+        "title": "Software Development Lifecycle",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/specializations/software-development-lifecycle",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 44,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Agile Software Development",
+            "Scrum (Software Development)",
+            "Software Project Management"
+        ],
+        "title": "Software Processes and Agile Practices",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/software-processes-and-agile-practices",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 2345
+    },
+    {
+        "category": [
+            "Agile Software Development"
+        ],
+        "title": "Agile Software Development",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/agile-software-development",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 90
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure"
+        ],
+        "title": "Algorithms, Part I",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/algorithms-part1",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 32,
+        "level": "INTERMEDIATE",
+        "users": 4361
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Dynamic Programming",
+            "Software Testing",
+            "Problem Solving",
+            "Algorithm Design"
+        ],
+        "title": "Algorithmic Toolbox",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/algorithmic-toolbox",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 32,
+        "level": "INTERMEDIATE",
+        "users": 3861
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Graphs",
+            "Dynamic Programming"
+        ],
+        "title": "Algorithms",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/specializations/algorithms",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 78,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/algorithms-divide-conquer",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 2201
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Graphs",
+            "Object-Oriented Programming",
+            "Python Programming",
+            "Recursion"
+        ],
+        "title": "Fundamentals of Computing",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/specializations/computer-fundamentals",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 140,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Graphs",
+            "Object-Oriented Programming",
+            "Graph Algorithms",
+            "Problem Solving"
+        ],
+        "title": "Object Oriented Java Programming: Data Structures and Beyond",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/java-object-oriented",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 105,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Unit Testing",
+            "Software Testing",
+            "Debugging",
+            "C++"
+        ],
+        "title": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043d\u0430 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c C++",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/specializations/c-plus-plus-modern-development",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 175,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Graphs"
+        ],
+        "title": "Algorithms, Part II",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/algorithms-part2",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 33,
+        "level": "INTERMEDIATE",
+        "users": 577
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Computer Display Standard",
+            "C Programming",
+            "C++"
+        ],
+        "title": "\u7a0b\u5e8f\u8bbe\u8ba1\u4e0e\u7b97\u6cd5",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/specializations/biancheng-suanfa",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 183,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Computation",
+            "Python Programming",
+            "Problem Solving"
+        ],
+        "title": "Computational Thinking for Problem Solving",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/computational-thinking-problem-solving",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 57
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Computer Architecture"
+        ],
+        "title": "Computer Science: Algorithms, Theory, and Machines",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/cs-algorithms-theory-machines",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "INTERMEDIATE",
+        "users": 71
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Graphs",
+            "Hashing"
+        ],
+        "title": "Graph Search, Shortest Paths, and Data Structures",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/algorithms-graphs-data-structures",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 957
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Unit Testing",
+            "Software Testing",
+            "Debugging",
+            "C++"
+        ],
+        "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043d\u0430 C++: \u0436\u0451\u043b\u0442\u044b\u0439 \u043f\u043e\u044f\u0441",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/c-plus-plus-yellow",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 50,
+        "level": "INTERMEDIATE",
+        "users": 200
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Programming Tool",
+            "Computer Programming",
+            "Software Testing",
+            "Programming Language",
+            "Software Development"
+        ],
+        "title": "Code Yourself! An Introduction to Programming",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/intro-programming",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 804
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "VLSI CAD Part I: Logic",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/vlsi-cad-logic",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "INTERMEDIATE",
+        "users": 82
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Algorithm Design"
+        ],
+        "title": "Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/algorithms-npcomplete",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 369
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Computer Programming"
+        ],
+        "title": "Algorithmic Thinking (Part 1)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/algorithmic-thinking-1",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 233
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Image Processing"
+        ],
+        "title": "Detecci\u00f3n de objetos",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/deteccion-objetos",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 239
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Computer Programming"
+        ],
+        "title": "Principles of Computing (Part 1)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/principles-of-computing-1",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 384
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "\u7b97\u6cd5\u57fa\u7840",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/suanfa-jichu",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 285
+    },
+    {
+        "category": [
+            "Algorithms",
+            "User Interface",
+            "Human\u2013Computer Interaction"
+        ],
+        "title": "Interactive Computer Graphics",
+        "partner": "The University of Tokyo",
+        "link": "https://www.coursera.org/learn/interactive-computer-graphics",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "INTERMEDIATE",
+        "users": 161
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "VLSI CAD Part II: Layout",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/vlsi-cad-layout",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 31
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Software Testing",
+            "Recursion",
+            "Software Development"
+        ],
+        "title": "Principles of Computing (Part 2)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/principles-of-computing-2",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 243
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure",
+            "Debugging",
+            "Algorithm Design"
+        ],
+        "title": "Genome Assembly Programming Challenge",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/assembling-genomes",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "ADVANCED",
+        "users": 93
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "Algorithmic Thinking (Part 2)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/algorithmic-thinking-2",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 143
+    },
+    {
+        "category": [
+            "Routing",
+            "Web Development",
+            "Javascript",
+            "Html",
+            "Responsive Web Design",
+            "Jquery"
+        ],
+        "title": "Responsive Website Development and Design",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/specializations/website-development",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 90,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Routing",
+            "Internet Protocol",
+            "Internet Protocol Suite"
+        ],
+        "title": "Introduction to TCP/IP",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/learn/tcpip",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 254
+    },
+    {
+        "category": [
+            "Routing",
+            "Web Development"
+        ],
+        "title": "Web Application Development with JavaScript and MongoDB",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/web-application-development",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 480
+    },
+    {
+        "category": [
+            "Routing",
+            "Web Development",
+            "User Interface",
+            "Web Design"
+        ],
+        "title": "Introduction to Meteor.js Development",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/meteor-development",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 1015
+    },
+    {
+        "category": [
+            "Cybersecurity",
+            "Encryption"
+        ],
+        "title": "Introduction to Cyber Security",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/specializations/intro-cyber-security",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 45,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "Introduction to Cyber Attacks",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/learn/intro-cyber-attacks",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 465
+    },
+    {
+        "category": [
+            "Cybersecurity",
+            "Internet Of Things"
+        ],
+        "title": "Cybersecurity: Developing a Program for Your Business",
+        "partner": "University System of Georgia",
+        "link": "https://www.coursera.org/specializations/cybersecurity-developing-program-for-business",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 41,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cybersecurity"
+        ],
+        "title": "The Business of Cybersecurity Capstone",
+        "partner": "University System of Georgia",
+        "link": "https://www.coursera.org/learn/business-of-cybersecurity-capstone",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 24
+    },
+    {
+        "category": [
+            "Syntax",
+            "Html5",
+            "Web Design"
+        ],
+        "title": "Introduction to HTML5",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/html",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 7248
+    },
+    {
+        "category": [
+            "Syntax",
+            "Computer Programming",
+            "C++",
+            "Programming Language"
+        ],
+        "title": "Initiation \u00e0 la programmation (en C++)",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/initiation-programmation-cpp",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 223
+    },
+    {
+        "category": [
+            "Syntax",
+            "Python Programming",
+            "Debugging"
+        ],
+        "title": "Python Programming Essentials",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/python-programming",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 800
+    },
+    {
+        "category": [
+            "Syntax",
+            "Data Type",
+            "Best Practice"
+        ],
+        "title": "Smart Contracts",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/smarter-contracts",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 436
+    },
+    {
+        "category": [
+            "Syntax",
+            "Programming Tool",
+            "Java Programming",
+            "Computer Programming",
+            "Problem Solving"
+        ],
+        "title": "Initiation \u00e0 la programmation (en Java)",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/initiation-programmation-java",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 211
+    },
+    {
+        "category": [
+            "Syntax",
+            "Swift (Programming Language)",
+            "Image Processing",
+            "User Interface",
+            "Computer Programming",
+            "Ios App Development"
+        ],
+        "title": "iOS App Development with Swift",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/specializations/app-development",
+        "rating": 3.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 40,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Syntax",
+            "Swift (Programming Language)",
+            "Image Processing",
+            "Computer Programming"
+        ],
+        "title": "Introduction To Swift Programming",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/swift-programming",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 1184
+    },
+    {
+        "category": [
+            "Programming Tool",
+            "Computation",
+            "Computer Programming",
+            "Software Development"
+        ],
+        "title": "\u00a1A Programar! Una introducci\u00f3n a la programaci\u00f3n",
+        "partner": "Universidad ORT Uruguay",
+        "link": "https://www.coursera.org/learn/a-programar",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 964
+    },
+    {
+        "category": [
+            "Programming Tool",
+            "Computation",
+            "Python Programming",
+            "Software Testing",
+            "Programming Language",
+            "Recursion"
+        ],
+        "title": "Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia da Computa\u00e7\u00e3o com Python Parte 2",
+        "partner": "Universidade de S\u00e3o Paulo",
+        "link": "https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 312
+    },
+    {
+        "category": [
+            "List & Label",
+            "Data Structure"
+        ],
+        "title": "Python Data Structures",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-data",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 26345
+    },
+    {
+        "category": [
+            "List & Label",
+            "Python Programming",
+            "Programming Language"
+        ],
+        "title": "Introducci\u00f3n a la programaci\u00f3n en Python I: Aprendiendo a programar con Python",
+        "partner": "Pontificia Universidad Cat\u00f3lica de Chile",
+        "link": "https://www.coursera.org/learn/aprendiendo-programar-python",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "BEGINNER",
+        "users": 458
+    },
+    {
+        "category": [
+            "List & Label",
+            "Python Programming",
+            "Programming Language"
+        ],
+        "title": "Introdu\u00e7\u00e3o \u00e0 Ci\u00eancia da Computa\u00e7\u00e3o com Python Parte 1",
+        "partner": "Universidade de S\u00e3o Paulo",
+        "link": "https://www.coursera.org/learn/ciencia-computacao-python-conceitos",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "BEGINNER",
+        "users": 1687
+    },
+    {
+        "category": [
+            "List & Label",
+            "Python Programming",
+            "Debugging"
+        ],
+        "title": "Introduction to Scripting in Python",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/specializations/introduction-scripting-in-python",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 43,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "List & Label",
+            "Python Programming"
+        ],
+        "title": "Python Data Analysis",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/python-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 241
+    },
+    {
+        "category": [
+            "List & Label",
+            "Data Type",
+            "Python Programming"
+        ],
+        "title": "Python Data Representations",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/python-representation",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 361
+    },
+    {
+        "category": [
+            "Hash Table",
+            "Software Design",
+            "Data Structure",
+            "Java Programming",
+            "Html",
+            "Problem Solving",
+            "Interfaces"
+        ],
+        "title": "Java Programming and Software Engineering Fundamentals",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/specializations/java-programming",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 95,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Hash Table",
+            "Arrays",
+            "Data Structure",
+            "Logic Programming",
+            "Java Programming",
+            "Object-Oriented Programming",
+            "Object-Oriented Programming",
+            "Problem Solving"
+        ],
+        "title": "Object Oriented Programming in Java",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/object-oriented-programming",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 100,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Hash Table",
+            "Arrays",
+            "Data Structure",
+            "Programming Language"
+        ],
+        "title": "Java Programming: Arrays, Lists, and Structured Data",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/java-programming-arrays-lists-data",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 1147
+    },
+    {
+        "category": [
+            "Streams",
+            "C++"
+        ],
+        "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043d\u0430 C++: \u0431\u0435\u043b\u044b\u0439 \u043f\u043e\u044f\u0441",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/c-plus-plus-white",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 49,
+        "level": "INTERMEDIATE",
+        "users": 842
+    },
+    {
+        "category": [
+            "Streams"
+        ],
+        "title": "Parallel Programming in Java",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/parallel-programming-in-java",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 502
+    },
+    {
+        "category": [
+            "Streams"
+        ],
+        "title": "Functional Program Design in Scala",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/progfun2",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 2399
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Google Cloud Platform",
+            "Cloud Storage",
+            "Data Store",
+            "Debugging",
+            "Cloud Computing"
+        ],
+        "title": "Developing Applications with Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/developing-apps-gcp",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 24,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Object-Oriented Programming",
+            "Python Programming"
+        ],
+        "title": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 Python",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/specializations/programming-in-python",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 141,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Best Practice"
+        ],
+        "title": "Developing APIs with Google Cloud's Apigee API Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/apigee-api-gcp",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Best Practice"
+        ],
+        "title": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/api-design-apigee-gcp",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 428
+    },
+    {
+        "category": [
+            "Application Programming Interfaces"
+        ],
+        "title": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 Web-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u043d\u0430 Python",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/python-for-web",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 48,
+        "level": "INTERMEDIATE",
+        "users": 32
+    },
+    {
+        "category": [
+            "Application Programming Interfaces"
+        ],
+        "title": "API Development on Google Cloud's Apigee API Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/api-development-apigee-gcp",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 233
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Cloud Computing"
+        ],
+        "title": "Securing and Integrating Components of your Application",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/securing-integrating-components-app",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 247
+    },
+    {
+        "category": [
+            "Software Design"
+        ],
+        "title": "Object-Oriented Design",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/object-oriented-design",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 391
+    },
+    {
+        "category": [
+            "Software Design",
+            "Design Pattern"
+        ],
+        "title": "Design Patterns",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/design-patterns",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 237
+    },
+    {
+        "category": [
+            "Software Design"
+        ],
+        "title": "Software Architecture",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/software-architecture",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 116
+    },
+    {
+        "category": [
+            "Software Design",
+            "Software Testing",
+            "Interfaces",
+            "Software Development"
+        ],
+        "title": "Java Programming: Principles of Software Design",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/java-programming-design-principles",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 675
+    },
+    {
+        "category": [
+            "Software Design"
+        ],
+        "title": "Secure Software Design",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/secure-software-design",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Software Design"
+        ],
+        "title": "Software Design as an Element of the Software Development Lifecycle",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/software-design-development-life-cycle",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 5,
+        "level": "BEGINNER",
+        "users": 39
+    },
+    {
+        "category": [
+            "Software Design",
+            "Problem Solving",
+            "Interfaces"
+        ],
+        "title": "Java Programming: Build a Recommendation System",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/java-programming-recommender",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 263
+    },
+    {
+        "category": [
+            "Android Software Development",
+            "Unit Testing",
+            "Java Programming",
+            "Software Testing"
+        ],
+        "title": "Android App Development",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/specializations/android-app-development",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 77,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Android Software Development",
+            "User Interface"
+        ],
+        "title": "Programming Mobile Applications for Android Handheld Systems: Part 1",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/android-programming",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 523
+    },
+    {
+        "category": [
+            "Android Software Development"
+        ],
+        "title": "Capstone MOOC for \"Android App Development\"",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/aadcapstone",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 11
+    },
+    {
+        "category": [
+            "Distributed Computing",
+            "Graphs",
+            "Big Data",
+            "Cloud Computing"
+        ],
+        "title": "Cloud Computing",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/specializations/cloud-computing",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 128,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Distributed Computing",
+            "Cloud Computing"
+        ],
+        "title": "Cloud Computing Concepts, Part 1",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cloud-computing",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "BEGINNER",
+        "users": 616
+    },
+    {
+        "category": [
+            "Distributed Computing"
+        ],
+        "title": "Parallel, Concurrent, and Distributed Programming in Java",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/specializations/pcdp",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 43,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Distributed Computing"
+        ],
+        "title": "Distributed Programming in Java",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/distributed-programming-in-java",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 170
+    },
+    {
+        "category": [
+            "Unit Testing",
+            "Software Testing",
+            "Interfaces"
+        ],
+        "title": "Orienta\u00e7\u00e3o a Objetos com Java",
+        "partner": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
+        "link": "https://www.coursera.org/learn/orientacao-a-objetos-com-java",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "INTERMEDIATE",
+        "users": 894
+    },
+    {
+        "category": [
+            "Unit Testing"
+        ],
+        "title": "Ruby on Rails: An Introduction",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/ruby-on-rails-intro",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 1603
+    },
+    {
+        "category": [
+            "Unit Testing",
+            "Software Testing"
+        ],
+        "title": "Learn to Program: Crafting Quality Code",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/program-code",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 349
+    },
+    {
+        "category": [
+            "Unit Testing",
+            "Software Testing"
+        ],
+        "title": "Engineering Maintainable Android Apps",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/engineeringandroidapps",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 112
+    },
+    {
+        "category": [
+            "Arrays",
+            "Compiler",
+            "C Programming",
+            "Software Testing",
+            "Debugging",
+            "Recursion"
+        ],
+        "title": "Introduction to Programming in C",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/specializations/c-programming",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 73,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Arrays",
+            "Computer Programming",
+            "Debugging",
+            "Problem Solving",
+            "Microsoft Excel Vba"
+        ],
+        "title": "Excel/VBA for Creative Problem Solving",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/specializations/excel-vba-creative-problem-solving",
+        "rating": 4.9,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 64,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Arrays",
+            "Computer Programming",
+            "Microsoft Excel Vba"
+        ],
+        "title": "Excel/VBA for Creative Problem Solving, Part 2",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-2",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "INTERMEDIATE",
+        "users": 186
+    },
+    {
+        "category": [
+            "Arrays",
+            "Recursion"
+        ],
+        "title": "Pointers, Arrays, and Recursion",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/pointers-arrays-recursion",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 48
+    },
+    {
+        "category": [
+            "Arrays",
+            "Interfaces"
+        ],
+        "title": "Programando con Java para aplicaciones Android",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/programandoconjava",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 812
+    },
+    {
+        "category": [
+            "Arrays",
+            "Responsive Web Design"
+        ],
+        "title": "Responsive Web Design",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/responsive-web-design",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 1318
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Cloud Storage"
+        ],
+        "title": "Architecting with Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/gcp-architecture",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 43,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Data Store"
+        ],
+        "title": "Google Cloud Platform Fundamentals for AWS Professionals",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-fundamentals-aws",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 209
+    },
+    {
+        "category": [
+            "Cascading Style Sheets",
+            "Javascript",
+            "Html5",
+            "Responsive Web Design",
+            "Web Design"
+        ],
+        "title": "Web Design for Everybody (Basics of Web Development and Coding)",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/web-design",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 59,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cascading Style Sheets",
+            "Javascript",
+            "Html"
+        ],
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432: \u0432\u0451\u0440\u0441\u0442\u043a\u0430 \u0438 JavaScript",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/specializations/razrabotka-interfeysov",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 89,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cascading Style Sheets",
+            "Web Design"
+        ],
+        "title": "Introduction to CSS3",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/introcss",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 3253
+    },
+    {
+        "category": [
+            "Cascading Style Sheets",
+            "Html"
+        ],
+        "title": "\u041e\u0441\u043d\u043e\u0432\u044b HTML \u0438 CSS",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/snovy-html-i-css",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 152
+    },
+    {
+        "category": [
+            "Cascading Style Sheets",
+            "Html"
+        ],
+        "title": "\u0422\u043e\u043d\u043a\u043e\u0441\u0442\u0438 \u0432\u0435\u0440\u0441\u0442\u043a\u0438",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/tonkosti-verstki",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "INTERMEDIATE",
+        "users": 54
+    },
+    {
+        "category": [
+            "Cascading Style Sheets"
+        ],
+        "title": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432: \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/razrabotka-interfeysov-proyekt",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "ADVANCED",
+        "users": 26
+    },
+    {
+        "category": [
+            "C File Input/Output",
+            "Cloud Storage",
+            "Data Store",
+            "Best Practice"
+        ],
+        "title": "Getting Started With Application Development",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/getting-started-app-development",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 405
+    },
+    {
+        "category": [
+            "C File Input/Output",
+            "Computer Programming"
+        ],
+        "title": "Getting started with Augmented Reality",
+        "partner": "Institut Mines-T\u00e9l\u00e9com",
+        "link": "https://www.coursera.org/learn/augmented-reality",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 133
+    },
+    {
+        "category": [
+            "C File Input/Output",
+            "Software Project Management"
+        ],
+        "title": "Reviews & Metrics for Software Improvements",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 784
+    },
+    {
+        "category": [
+            "C File Input/Output",
+            "Agile Management",
+            "Software Testing",
+            "Persona (User Experience)"
+        ],
+        "title": "Agile Development in Practice (Project-centered Course)",
+        "partner": "University of Virginia",
+        "link": "https://www.coursera.org/learn/uva-darden-agile-development-capstone",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 78
+    },
+    {
+        "category": [
+            "Data Structure",
+            "Database",
+            "Python Programming",
+            "Json"
+        ],
+        "title": "Python for Everybody",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/python",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 48,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Structure",
+            "Hashing"
+        ],
+        "title": "Data Structures",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/data-structures",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "INTERMEDIATE",
+        "users": 1672
+    },
+    {
+        "category": [
+            "Data Structure"
+        ],
+        "title": "Data Structures and Performance",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/data-structures-optimizing-performance",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "INTERMEDIATE",
+        "users": 1443
+    },
+    {
+        "category": [
+            "Data Structure"
+        ],
+        "title": "Parallel programming",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/parprog1",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 1425
+    },
+    {
+        "category": [
+            "Data Structure",
+            "Graphs",
+            "Graph Algorithms"
+        ],
+        "title": "Advanced Data Structures in Java",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/advanced-data-structures",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 942
+    },
+    {
+        "category": [
+            "Data Structure"
+        ],
+        "title": "\u6570\u636e\u7ed3\u6784\u57fa\u7840",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/shuju-jiegou-suanfa",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 221
+    },
+    {
+        "category": [
+            "Data Structure",
+            "Python Programming"
+        ],
+        "title": "\u7528 Python \u505a\u5546\u7ba1\u7a0b\u5f0f\u8a2d\u8a08\uff08\u4e8c\uff09(Programming for Business Computing in Python (2))",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/pbc2",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 35
+    },
+    {
+        "category": [
+            "Logic Programming",
+            "Object-Oriented Programming",
+            "Interfaces"
+        ],
+        "title": "Introduction \u00e0 la programmation orient\u00e9e objet (en Java)",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/programmation-orientee-objet-java",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "INTERMEDIATE",
+        "users": 161
+    },
+    {
+        "category": [
+            "Logic Programming",
+            "Object-Oriented Programming",
+            "C++"
+        ],
+        "title": "Introduction \u00e0 la programmation orient\u00e9e objet (en C++)",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/programmation-orientee-objet-cpp",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 35,
+        "level": "INTERMEDIATE",
+        "users": 183
+    },
+    {
+        "category": [
+            "Compiler",
+            "C Programming",
+            "Software Testing",
+            "Debugging"
+        ],
+        "title": "Writing, Running, and Fixing Code in C",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/writing-running-fixing-code",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 103
+    },
+    {
+        "category": [
+            "Compiler",
+            "Computer Programming",
+            "Operating System",
+            "Computer Architecture"
+        ],
+        "title": "Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)",
+        "partner": "Hebrew University of Jerusalem",
+        "link": "https://www.coursera.org/learn/nand2tetris2",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 36,
+        "level": "BEGINNER",
+        "users": 181
+    },
+    {
+        "category": [
+            "Video Game Design",
+            "Video Game Development",
+            "Game Design"
+        ],
+        "title": "Game Design and Development",
+        "partner": "Michigan State University",
+        "link": "https://www.coursera.org/specializations/game-development",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 91,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Video Game Design",
+            "Game Design",
+            "User Interface",
+            "Computer Programming",
+            "Human\u2013Computer Interaction",
+            "Software Development"
+        ],
+        "title": "Dise\u00f1o y Creaci\u00f3n de videojuegos",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/specializations/diseno-videojuegos",
+        "rating": 4.1,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 65,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Video Game Design",
+            "Game Design",
+            "User Interface",
+            "Human\u2013Computer Interaction",
+            "Software Development"
+        ],
+        "title": "Dise\u00f1o de videojuegos",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/videojuegos-diseno",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 205
+    },
+    {
+        "category": [
+            "Video Game Design",
+            "Video Game Development"
+        ],
+        "title": "Game Design and Development Capstone",
+        "partner": "Michigan State University",
+        "link": "https://www.coursera.org/learn/gamedev-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 132
+    },
+    {
+        "category": [
+            "Representational State Transfer",
+            "Web Service",
+            "Design Pattern"
+        ],
+        "title": "Software Design and Architecture",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/specializations/software-design-architecture",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 64,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Representational State Transfer",
+            "Web Service"
+        ],
+        "title": "Service-Oriented Architecture",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/service-oriented-architecture",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 100
+    },
+    {
+        "category": [
+            "Representational State Transfer",
+            "Debugging",
+            "Web Service"
+        ],
+        "title": "Ruby on Rails Web Services and Integration with MongoDB",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 288
+    },
+    {
+        "category": [
+            "Java Programming",
+            "Problem Solving"
+        ],
+        "title": "Java Programming: Solving Problems with Software",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/java-programming",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 2240
+    },
+    {
+        "category": [
+            "Java Programming"
+        ],
+        "title": "Java for Android",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/java-for-android",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "BEGINNER",
+        "users": 935
+    },
+    {
+        "category": [
+            "Java Programming"
+        ],
+        "title": "Introducci\u00f3n a la programaci\u00f3n orientada a objetos en Java",
+        "partner": "Universidad de los Andes",
+        "link": "https://www.coursera.org/learn/introduccion-programacion-java",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 46,
+        "level": "BEGINNER",
+        "users": 84
+    },
+    {
+        "category": [
+            "Java Programming"
+        ],
+        "title": "Java\u7a0b\u5e8f\u8bbe\u8ba1",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/java-chengxu-sheji",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 37,
+        "level": "INTERMEDIATE",
+        "users": 175
+    },
+    {
+        "category": [
+            "Database"
+        ],
+        "title": "Using Databases with Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-databases",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 10416
+    },
+    {
+        "category": [
+            "Database",
+            "Mysql"
+        ],
+        "title": "Introduction to Structured Query Language (SQL)",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/intro-sql",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 776
+    },
+    {
+        "category": [
+            "Database"
+        ],
+        "title": "Database Management Essentials",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/database-management",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "INTERMEDIATE",
+        "users": 1421
+    },
+    {
+        "category": [
+            "Database",
+            "Best Practice",
+            "Interfaces"
+        ],
+        "title": "Desarrollo de aplicaciones m\u00f3viles con Android",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/specializations/programacion-android",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 108,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Database",
+            "Best Practice"
+        ],
+        "title": "Desarrollo de aplicaciones con Android",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/desarrollo-de-aplicaciones",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 35,
+        "level": "INTERMEDIATE",
+        "users": 207
+    },
+    {
+        "category": [
+            "Computation",
+            "Computer Programming"
+        ],
+        "title": "Aprenda a ensinar programa\u00e7\u00e3o com o Programa\u00ea!",
+        "partner": "Funda\u00e7\u00e3o Lemann",
+        "link": "https://www.coursera.org/learn/programae",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 89
+    },
+    {
+        "category": [
+            "Data Type",
+            "Computer Programming",
+            "Problem Solving",
+            "Programming Language"
+        ],
+        "title": "Introduction to Programming with MATLAB",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/matlab",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 3157
+    },
+    {
+        "category": [
+            "Data Type",
+            "Python Programming"
+        ],
+        "title": "\u7528Python\u73a9\u8f6c\u6570\u636e Data Processing Using Python",
+        "partner": "Nanjing University",
+        "link": "https://www.coursera.org/learn/hipython",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 1296
+    },
+    {
+        "category": [
+            "Graphs",
+            "Big Data"
+        ],
+        "title": "Big Data for Data Engineers",
+        "partner": "Yandex",
+        "link": "https://www.coursera.org/specializations/big-data-engineering",
+        "rating": 4.0,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 119,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Graphs",
+            "Graph Algorithms"
+        ],
+        "title": "Algorithms on Graphs",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/algorithms-on-graphs",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 909
+    },
+    {
+        "category": [
+            "Graphs",
+            "Big Data"
+        ],
+        "title": "Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cloud-applications-part2",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 160
+    },
+    {
+        "category": [
+            "Graphs",
+            "Python Programming",
+            "Computer Programming"
+        ],
+        "title": "The Fundamentals of Computing Capstone Exam",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/fundamentals-of-computing-capstone",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 80
+    },
+    {
+        "category": [
+            "Swift (Programming Language)",
+            "Ios App Development",
+            "User Interface Design"
+        ],
+        "title": "iOS Development for Creative Entrepreneurs",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/specializations/ios-development",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 142,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Swift (Programming Language)"
+        ],
+        "title": "Toward the Future of iOS Development with Swift",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/iosswift",
+        "rating": 3.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 33,
+        "level": "BEGINNER",
+        "users": 73
+    },
+    {
+        "category": [
+            "C Sharp (Programming Language)",
+            "At&T Hobbit",
+            "Computer Programming"
+        ],
+        "title": "C# Programming for Unity Game Development",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/programming-unity-game-development",
+        "rating": 4.9,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 80,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "C Sharp (Programming Language)",
+            "Computer Programming"
+        ],
+        "title": "Introduction to C# Programming and Unity",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/introduction-programming-unity",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 282
+    },
+    {
+        "category": [
+            "C Sharp (Programming Language)"
+        ],
+        "title": "Intermediate Object-Oriented Programming for Unity Games",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 38
+    },
+    {
+        "category": [
+            "Dynamic Programming"
+        ],
+        "title": "Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/algorithms-greedy",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 602
+    },
+    {
+        "category": [
+            "Mobile Application Development",
+            "Node.Js"
+        ],
+        "title": "Full Stack Web and Multiplatform Mobile App Development",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/specializations/full-stack-mobile-app-development",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 152,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Mobile Application Development"
+        ],
+        "title": "Developing Android Apps with App Inventor",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/app-inventor-android",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 32,
+        "level": "BEGINNER",
+        "users": 42
+    },
+    {
+        "category": [
+            "Mobile Application Development"
+        ],
+        "title": "Multiplatform Mobile App Development with NativeScript",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/nativescript",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 104
+    },
+    {
+        "category": [
+            "Cryptography"
+        ],
+        "title": "Cryptography I",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/crypto",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "BEGINNER",
+        "users": 2274
+    },
+    {
+        "category": [
+            "Cryptography",
+            "Graph Theory"
+        ],
+        "title": "Introduction to Discrete Mathematics for Computer Science",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/specializations/discrete-mathematics",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 75,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cryptography",
+            "Usability",
+            "Software Testing",
+            "Encryption"
+        ],
+        "title": "Cybersecurity",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/specializations/cyber-security",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 77,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cryptography"
+        ],
+        "title": "Information Security: Context and Introduction",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/information-security-data",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 417
+    },
+    {
+        "category": [
+            "Cryptography"
+        ],
+        "title": "Number Theory and Cryptography",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/number-theory-cryptography",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 101
+    },
+    {
+        "category": [
+            "Cryptography",
+            "Encryption"
+        ],
+        "title": "Cryptography",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/cryptography",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 489
+    },
+    {
+        "category": [
+            "Cryptography"
+        ],
+        "title": "Introduction to Applied Cryptography",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/introduction-applied-cryptography",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 42,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cryptography"
+        ],
+        "title": "Classical Cryptosystems and Core Concepts",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/classical-cryptosystems",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 61
+    },
+    {
+        "category": [
+            "Cryptography",
+            "Software Testing"
+        ],
+        "title": "Cybersecurity Capstone Project",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/cyber-security-capstone",
+        "rating": 4.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 61
+    },
+    {
+        "category": [
+            "Video Game Development"
+        ],
+        "title": "Introduction to Game Development",
+        "partner": "Michigan State University",
+        "link": "https://www.coursera.org/learn/game-development",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 3001
+    },
+    {
+        "category": [
+            "Video Game Development"
+        ],
+        "title": "Game Development for Modern Platforms",
+        "partner": "Michigan State University",
+        "link": "https://www.coursera.org/learn/gamedev-platforms",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 616
+    },
+    {
+        "category": [
+            "Object-Oriented Programming"
+        ],
+        "title": "\u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432 Python",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/oop-patterns-python",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "INTERMEDIATE",
+        "users": 67
+    },
+    {
+        "category": [
+            "Object-Oriented Programming",
+            "Python Programming"
+        ],
+        "title": "An Introduction to Interactive Programming in Python (Part 2)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/interactive-python-2",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 759
+    },
+    {
+        "category": [
+            "Object-Oriented Programming",
+            "Python Programming"
+        ],
+        "title": "\u7528 Python \u505a\u5546\u7ba1\u7a0b\u5f0f\u8a2d\u8a08\uff08\u4e09\uff09(Programming for Business Computing in Python (3))",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/pbc3",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 13
+    },
+    {
+        "category": [
+            "Object-Oriented Programming",
+            "Programming Language"
+        ],
+        "title": "Programming Languages, Part C",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/programming-languages-part-c",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 225
+    },
+    {
+        "category": [
+            "At&T Hobbit"
+        ],
+        "title": "Analysis of Algorithms",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/analysis-of-algorithms",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "ADVANCED",
+        "users": 39
+    },
+    {
+        "category": [
+            "At&T Hobbit"
+        ],
+        "title": "Problem Solving, Programming, and Video Games",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/problem-solving-programming-video-games",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 52,
+        "level": "BEGINNER",
+        "users": 5
+    },
+    {
+        "category": [
+            "At&T Hobbit"
+        ],
+        "title": "C# Programming for Unity Game Development Capstone Project",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/programming-unity-game-development-project",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 6
+    },
+    {
+        "category": [
+            "Game Design"
+        ],
+        "title": "Principles of Game Design",
+        "partner": "Michigan State University",
+        "link": "https://www.coursera.org/learn/gamedesign",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 1046
+    },
+    {
+        "category": [
+            "Internet Protocol",
+            "Internet Of Things"
+        ],
+        "title": "Introduction to the Internet of Things and Embedded Systems",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/iot",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 3708
+    },
+    {
+        "category": [
+            "Internet Protocol",
+            "Internet Security"
+        ],
+        "title": "Internet History, Technology, and Security",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/internet-history",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 1558
+    },
+    {
+        "category": [
+            "Sed",
+            "Software Testing"
+        ],
+        "title": "Testing with Agile",
+        "partner": "University of Virginia",
+        "link": "https://www.coursera.org/learn/uva-darden-agile-testing",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 238
+    },
+    {
+        "category": [
+            "Sed"
+        ],
+        "title": "Cybersecurity and Mobility",
+        "partner": "University System of Georgia",
+        "link": "https://www.coursera.org/learn/cybersecurity-mobility",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 250
+    },
+    {
+        "category": [
+            "Sed"
+        ],
+        "title": "Networks: Friends, Money, and Bytes",
+        "partner": "Princeton University",
+        "link": "https://www.coursera.org/learn/friends-money-bytes",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 62
+    },
+    {
+        "category": [
+            "Sed"
+        ],
+        "title": "Mobile Interaction Design: How to Design Usable Mobile Products and Services",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/mobile-interaction-design",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 39,
+        "level": "INTERMEDIATE",
+        "users": 4
+    },
+    {
+        "category": [
+            "Web Development",
+            "Web Service"
+        ],
+        "title": "Ruby on Rails Web Development",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/ruby-on-rails",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 189,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Web Development",
+            "Javascript",
+            "Html",
+            "Web Design"
+        ],
+        "title": "Introduction to Web Development",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/web-development",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 309
+    },
+    {
+        "category": [
+            "Web Development",
+            "Web Design"
+        ],
+        "title": "How To Create a Website in a Weekend! (Project-Centered Course)",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/learn/how-to-create-a-website",
+        "rating": 3.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 287
+    },
+    {
+        "category": [
+            "Web Development",
+            "Web"
+        ],
+        "title": "Desarrollo de Aplicaciones Web: Conceptos B\u00e1sicos",
+        "partner": "University of New Mexico",
+        "link": "https://www.coursera.org/learn/aplicaciones-web",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 90
+    },
+    {
+        "category": [
+            "Web Development"
+        ],
+        "title": "Capstone: Photo Tourist Web Application",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/photo-tourist-web-app-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 58,
+        "level": "BEGINNER",
+        "users": 18
+    },
+    {
+        "category": [
+            "Web Development"
+        ],
+        "title": "Responsive Website Development and Design Capstone",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/responsive-web-design-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 39
+    },
+    {
+        "category": [
+            "Graph Theory"
+        ],
+        "title": "Introduction to Graph Theory",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/graphs",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 149
+    },
+    {
+        "category": [
+            "Graph Theory"
+        ],
+        "title": "C++ For C Programmers, Part B",
+        "partner": "University of California, Santa Cruz",
+        "link": "https://www.coursera.org/learn/c-plus-plus-b",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 79
+    },
+    {
+        "category": [
+            "Computer Display Standard",
+            "C Programming"
+        ],
+        "title": "C\u7a0b\u5e8f\u8bbe\u8ba1\u8fdb\u9636",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/c-chengxu-sheji",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 658
+    },
+    {
+        "category": [
+            "Computer Display Standard",
+            "Computer Programming",
+            "C Programming"
+        ],
+        "title": "\u8a08\u7b97\u6a5f\u7a0b\u5f0f\u8a2d\u8a08 (Computer Programming)",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/c-bian-cheng",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 236
+    },
+    {
+        "category": [
+            "User Interface",
+            "Usability Testing",
+            "Usability",
+            "User Interface Design",
+            "Design Pattern"
+        ],
+        "title": "User Interface Design",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/specializations/user-interface-design",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 72,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "User Interface",
+            "Human\u2013Computer Interaction",
+            "Usability"
+        ],
+        "title": "Usable Security",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/usable-security",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 1236
+    },
+    {
+        "category": [
+            "User Interface",
+            "Usability",
+            "User Interface Design"
+        ],
+        "title": "Introduction to UI Design",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/ui-design",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 575
+    },
+    {
+        "category": [
+            "User Interface",
+            "Computer Programming",
+            "Ios App Development"
+        ],
+        "title": "iOS App Development Basics",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/ios-app-development-basics",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 460
+    },
+    {
+        "category": [
+            "User Interface",
+            "Usability Testing"
+        ],
+        "title": "Evaluating User Interfaces",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/ui-testing",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 107
+    },
+    {
+        "category": [
+            "User Interface",
+            "Html5",
+            "Web Design"
+        ],
+        "title": "Web Design for Everybody Capstone",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/web-design-project",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 238
+    },
+    {
+        "category": [
+            "User Interface"
+        ],
+        "title": "Input and Interaction",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/interaction-techniques",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 564
+    },
+    {
+        "category": [
+            "User Interface",
+            "Ios App Development"
+        ],
+        "title": "App Design and Development for iOS",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/ios-app-design-development",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 217
+    },
+    {
+        "category": [
+            "User Interface",
+            "Human\u2013Computer Interaction",
+            "Usability Testing",
+            "User Experience"
+        ],
+        "title": "Interaction Design Capstone Project",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/interaction-design-capstone",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 120
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Computer Programming",
+            "Programming Language"
+        ],
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 48438
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 Python",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/python-osnovy-programmirovaniya",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 65,
+        "level": "BEGINNER",
+        "users": 696
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Python 3 Programming",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/python-3-programming",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 30,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Computer Programming",
+            "Problem Solving",
+            "Programming Language"
+        ],
+        "title": "Learn to Program: The Fundamentals",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/learn-to-program",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "BEGINNER",
+        "users": 2301
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Python Basics",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-basics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 39
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Computer Programming"
+        ],
+        "title": "An Introduction to Interactive Programming in Python (Part 1)",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/interactive-python-1",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "BEGINNER",
+        "users": 1969
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "\u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/diving-in-python",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "INTERMEDIATE",
+        "users": 729
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Python Programming: A Concise Introduction",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/python-programming-introduction",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 1865
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Operating System"
+        ],
+        "title": "The Raspberry Pi Platform and Python Programming for the Raspberry Pi",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/raspberry-pi-platform",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 1341
+    },
+    {
+        "category": [
+            "Python Programming",
+            "Computer Programming"
+        ],
+        "title": "\u7528 Python \u505a\u5546\u7ba1\u7a0b\u5f0f\u8a2d\u8a08\uff08\u4e00\uff09(Programming for Business Computing in Python (1))",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/pbc1",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 121
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Data Processing Using Python",
+        "partner": "Nanjing University",
+        "link": "https://www.coursera.org/learn/python-data-processing",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 100
+    },
+    {
+        "category": [
+            "Interaction Design",
+            "Human\u2013Computer Interaction"
+        ],
+        "title": "Human-Centered Design: an Introduction",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/human-computer-interaction",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 1804
+    },
+    {
+        "category": [
+            "Interaction Design"
+        ],
+        "title": "Virtual Reality",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/specializations/virtual-reality",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 94,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Interaction Design"
+        ],
+        "title": "3D Interaction Design in Virtual Reality",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/3d-interaction-design-virtual-reality",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 36
+    },
+    {
+        "category": [
+            "Javascript",
+            "Mysql",
+            "Jquery",
+            "Json"
+        ],
+        "title": "Web Applications for Everybody",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/web-applications",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 61,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Javascript",
+            "Html",
+            "Jquery",
+            "Web Design"
+        ],
+        "title": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/website-coding",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 2967
+    },
+    {
+        "category": [
+            "Javascript"
+        ],
+        "title": "Interactivity with JavaScript",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/javascript",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 2545
+    },
+    {
+        "category": [
+            "Javascript"
+        ],
+        "title": "JavaScript, \u0447\u0430\u0441\u0442\u044c 1: \u043e\u0441\u043d\u043e\u0432\u044b \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u0438",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/javascript-osnovy-i-funktsii",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 261
+    },
+    {
+        "category": [
+            "Javascript",
+            "Jquery",
+            "Json"
+        ],
+        "title": "JavaScript, jQuery, and JSON",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/javascript-jquery-json",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 152
+    },
+    {
+        "category": [
+            "Javascript"
+        ],
+        "title": "JavaScript, \u0447\u0430\u0441\u0442\u044c 2: \u043f\u0440\u043e\u0442\u043e\u0442\u0438\u043f\u044b \u0438 \u0430\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u043e\u0441\u0442\u044c",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/javascript-prototipy",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 49
+    },
+    {
+        "category": [
+            "Computer Programming",
+            "Html"
+        ],
+        "title": "Programming Foundations with JavaScript, HTML and CSS",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/duke-programming-web",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 4539
+    },
+    {
+        "category": [
+            "Computer Programming",
+            "Problem Solving"
+        ],
+        "title": "Programming Fundamentals",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/programming-fundamentals",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 512
+    },
+    {
+        "category": [
+            "Computer Programming",
+            "Debugging",
+            "Problem Solving",
+            "Microsoft Excel Vba"
+        ],
+        "title": "Excel/VBA for Creative Problem Solving, Part 1",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-1",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 604
+    },
+    {
+        "category": [
+            "Computer Programming",
+            "Debugging",
+            "Programming Language"
+        ],
+        "title": "The Arduino Platform and C Programming",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/arduino-platform",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 2810
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Arduino y algunas aplicaciones",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/arduino-aplicaciones",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 297
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Open Source Software Development, Linux and Git",
+        "partner": "The Linux Foundation",
+        "link": "https://www.coursera.org/specializations/oss-development-linux-git",
+        "rating": 4.2,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Programming Mobile Applications for Android Handheld Systems: Part 2",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/android-programming-2",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 149
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Creative Programming for Digital Media & Mobile Apps",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/digitalmedia",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 36
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Videojuegos: \u00bfde qu\u00e9 hablamos?",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/videojuegos-intro",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 329
+    },
+    {
+        "category": [
+            "Computer Programming"
+        ],
+        "title": "Linux Tools for Developers",
+        "partner": "The Linux Foundation",
+        "link": "https://www.coursera.org/learn/linux-tools-for-developers",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 6
+    },
+    {
+        "category": [
+            "Agile Management",
+            "Software Testing",
+            "Persona (User Experience)"
+        ],
+        "title": "Agile Development",
+        "partner": "University of Virginia",
+        "link": "https://www.coursera.org/specializations/agile-development",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 73,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Agile Management",
+            "Scrum (Software Development)"
+        ],
+        "title": "Agile with Atlassian Jira",
+        "partner": "Atlassian",
+        "link": "https://www.coursera.org/learn/agile-atlassian-jira",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 149
+    },
+    {
+        "category": [
+            "Agile Management",
+            "Link Aggregation"
+        ],
+        "title": "Managing an Agile Team",
+        "partner": "University of Virginia",
+        "link": "https://www.coursera.org/learn/uva-darden-agile-team-management",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 385
+    },
+    {
+        "category": [
+            "Human\u2013Computer Interaction",
+            "Persona (User Experience)"
+        ],
+        "title": "User Experience: Research & Prototyping",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/user-research",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 662
+    },
+    {
+        "category": [
+            "Usability Testing",
+            "Persona (User Experience)",
+            "User Experience"
+        ],
+        "title": "Interaction Design",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/interaction-design",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 8,
+        "duration": 118,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Usability",
+            "Software Testing",
+            "Operating System"
+        ],
+        "title": "Securing Digital Democracy",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/digital-democracy",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 97
+    },
+    {
+        "category": [
+            "C Programming"
+        ],
+        "title": "Interacting with the System and Managing Memory",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/interacting-system-managing-memory",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 22
+    },
+    {
+        "category": [
+            "Software Testing"
+        ],
+        "title": "Software Security",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/software-security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 740
+    },
+    {
+        "category": [
+            "Software Testing"
+        ],
+        "title": "Decentralized Applications (Dapps)",
+        "partner": "University at Buffalo",
+        "link": "https://www.coursera.org/learn/decentralized-apps-on-blockchain",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 224
+    },
+    {
+        "category": [
+            "Software Testing"
+        ],
+        "title": "Introdu\u00e7\u00e3o ao Teste de Software",
+        "partner": "Universidade de S\u00e3o Paulo",
+        "link": "https://www.coursera.org/learn/intro-teste-de-software",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 48
+    },
+    {
+        "category": [
+            "Software Testing"
+        ],
+        "title": "TDD \u2013 Desenvolvimento de Software Guiado por Testes",
+        "partner": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
+        "link": "https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 324
+    },
+    {
+        "category": [
+            "Software Testing",
+            "Web"
+        ],
+        "title": "Desenvolvimento \u00c1gil com Java Avan\u00e7ado",
+        "partner": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
+        "link": "https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 175
+    },
+    {
+        "category": [
+            "Link Aggregation",
+            "Github"
+        ],
+        "title": "Version Control with Git",
+        "partner": "Atlassian",
+        "link": "https://www.coursera.org/learn/version-control-with-git",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 256
+    },
+    {
+        "category": [
+            "Link Aggregation"
+        ],
+        "title": "Lean Software Development",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/lean-software-development",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 29
+    },
+    {
+        "category": [
+            "Scrum (Software Development)",
+            "Software Project Management"
+        ],
+        "title": "Software Product Management Capstone",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/software-product-management-capstone",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "BEGINNER",
+        "users": 398
+    },
+    {
+        "category": [
+            "Scrum (Software Development)"
+        ],
+        "title": "Princ\u00edpios de Desenvolvimento \u00c1gil de Software",
+        "partner": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
+        "link": "https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 136
+    },
+    {
+        "category": [
+            "Operating System"
+        ],
+        "title": "\u64cd\u4f5c\u7cfb\u7edf\u539f\u7406\uff08Operating Systems\uff09",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/os-pku",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "INTERMEDIATE",
+        "users": 197
+    },
+    {
+        "category": [
+            "Github"
+        ],
+        "title": "Desarrollo de Aplicaciones iOS",
+        "partner": "Tecnol\u00f3gico de Monterrey",
+        "link": "https://www.coursera.org/specializations/desarrollo-aplicaciones",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 83,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Github"
+        ],
+        "title": "Swift: programar para iOS",
+        "partner": "Tecnol\u00f3gico de Monterrey",
+        "link": "https://www.coursera.org/learn/swift",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 286
+    },
+    {
+        "category": [
+            "Internet Of Things"
+        ],
+        "title": "A developer's guide to the Internet of Things (IoT)",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/developer-iot",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 30,
+        "level": "INTERMEDIATE",
+        "users": 438
+    },
+    {
+        "category": [
+            "Internet Of Things"
+        ],
+        "title": "Cybersecurity and the Internet of Things",
+        "partner": "University System of Georgia",
+        "link": "https://www.coursera.org/learn/iot-cyber-security",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 221
+    },
+    {
+        "category": [
+            "Internet Protocol Suite"
+        ],
+        "title": "Computer Communications",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/computer-communications",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 36,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Internet Protocol Suite"
+        ],
+        "title": "Fundamentals of Network Communication",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/fundamentals-network-communications",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 201
+    },
+    {
+        "category": [
+            "Debugging"
+        ],
+        "title": "App Deployment, Debugging, and Performance",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/app-deployment-debugging-performance",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 206
+    },
+    {
+        "category": [
+            "Debugging"
+        ],
+        "title": "Architecting Smart IoT Devices",
+        "partner": "EIT Digital",
+        "link": "https://www.coursera.org/learn/iot-architecture",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 65
+    },
+    {
+        "category": [
+            "Software Project Management"
+        ],
+        "title": "Introduction to Software Product Management",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/introduction-to-software-product-management",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 5,
+        "level": "BEGINNER",
+        "users": 3251
+    },
+    {
+        "category": [
+            "Web",
+            "Json",
+            "Web Service"
+        ],
+        "title": "Using Python to Access Web Data",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-network-data",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 16859
+    },
+    {
+        "category": [
+            "Web"
+        ],
+        "title": "Web Application Development: Basic Concepts",
+        "partner": "University of New Mexico",
+        "link": "https://www.coursera.org/learn/web-app",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 122
+    },
+    {
+        "category": [
+            "Web"
+        ],
+        "title": "La Web Sem\u00e1ntica: Herramientas para la publicaci\u00f3n y extracci\u00f3n efectiva de informaci\u00f3n en la Web",
+        "partner": "Pontificia Universidad Cat\u00f3lica de Chile",
+        "link": "https://www.coursera.org/learn/web-semantica",
+        "rating": 3.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 93
+    },
+    {
+        "category": [
+            "Html5"
+        ],
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 33,
+        "level": "BEGINNER",
+        "users": 4355
+    },
+    {
+        "category": [
+            "Problem Solving"
+        ],
+        "title": "Mathematical Thinking in Computer Science",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/what-is-a-proof",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 356
+    },
+    {
+        "category": [
+            "Problem Solving"
+        ],
+        "title": "Mastering the Software Engineering Interview",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/cs-tech-interview",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 434
+    },
+    {
+        "category": [
+            "Use Case"
+        ],
+        "title": "Blockchain: Foundations and Use Cases",
+        "partner": "ConsenSys Academy",
+        "link": "https://www.coursera.org/learn/blockchain-foundations-and-use-cases",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 136
+    },
+    {
+        "category": [
+            "Use Case"
+        ],
+        "title": "Client Needs and Software Requirements",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/client-needs-and-software-requirements",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 1537
+    },
+    {
+        "category": [
+            "Use Case",
+            "Persona (User Experience)"
+        ],
+        "title": "User Research and Design",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/design-research",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 241
+    },
+    {
+        "category": [
+            "C++"
+        ],
+        "title": "C++ For C Programmers, Part A",
+        "partner": "University of California, Santa Cruz",
+        "link": "https://www.coursera.org/learn/c-plus-plus-a",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 510
+    },
+    {
+        "category": [
+            "C++"
+        ],
+        "title": "C++\u7a0b\u5e8f\u8bbe\u8ba1",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/cpp-chengxu-sheji",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "BEGINNER",
+        "users": 668
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Big Data Essentials: HDFS, MapReduce and Spark RDD",
+        "partner": "Yandex",
+        "link": "https://www.coursera.org/learn/big-data-essentials",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 43,
+        "level": "INTERMEDIATE",
+        "users": 230
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Big Data Analysis with Scala and Spark",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/scala-spark-big-data",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 1702
+    },
+    {
+        "category": [
+            "Mysql"
+        ],
+        "title": "Building Database Applications in PHP",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/database-applications-php",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 192
+    },
+    {
+        "category": [
+            "Persona (User Experience)"
+        ],
+        "title": "Agile Meets Design Thinking",
+        "partner": "University of Virginia",
+        "link": "https://www.coursera.org/learn/uva-darden-getting-started-agile",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 953
+    },
+    {
+        "category": [
+            "Ios App Development"
+        ],
+        "title": "Foundations of Objective-C App Development",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/objective-c",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 473
+    },
+    {
+        "category": [
+            "Ios App Development"
+        ],
+        "title": "Networking and Security in iOS Applications",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/security",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 230
+    },
+    {
+        "category": [
+            "Ios App Development"
+        ],
+        "title": "Build Your Own iOS App",
+        "partner": "University of Toronto",
+        "link": "https://www.coursera.org/learn/build-app",
+        "rating": 3.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 53
+    },
+    {
+        "category": [
+            "Responsive Web Design"
+        ],
+        "title": "Advanced Styling with Responsive Design",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/responsivedesign",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 1216
+    },
+    {
+        "category": [
+            "Best Practice",
+            "Web Design"
+        ],
+        "title": "Single Page Web Applications with AngularJS",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/single-page-web-apps-with-angularjs",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 38,
+        "level": "INTERMEDIATE",
+        "users": 1413
+    },
+    {
+        "category": [
+            "User Interface Design",
+            "User Experience"
+        ],
+        "title": "UX / UI: Fundamentos para o design de interface",
+        "partner": "Universidade de S\u00e3o Paulo",
+        "link": "https://www.coursera.org/learn/ux-ui-design-de-interface",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 51
+    },
+    {
+        "category": [
+            "User Interface Design"
+        ],
+        "title": "Best Practices for iOS User Interface Design",
+        "partner": "University of California, Irvine",
+        "link": "https://www.coursera.org/learn/ui",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 178
+    },
+    {
+        "category": [
+            "Encryption"
+        ],
+        "title": "Cyber Attack Countermeasures",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/learn/cyber-attack-countermeasures",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 147
+    },
+    {
+        "category": [
+            "User Experience"
+        ],
+        "title": "Introduction to User Experience Design",
+        "partner": "Georgia Institute of Technology",
+        "link": "https://www.coursera.org/learn/user-experience-design",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 1191
+    },
+    {
+        "category": [
+            "Computer Architecture"
+        ],
+        "title": "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)",
+        "partner": "Hebrew University of Jerusalem",
+        "link": "https://www.coursera.org/learn/build-a-computer",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 1248
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cloud-applications-part1",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 322
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "Cloud Networking",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cloud-networking",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 168
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "Cloud Computing Concepts: Part 2",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cloud-computing-2",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 191
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "IBM Cloud: Deploying Microservices with Kubernetes",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/deploy-micro-kube-ibm-cloud",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 100
+    },
+    {
+        "category": [
+            "Cloud Computing"
+        ],
+        "title": "IBM Cloud Private: Deploying Microservices with Kubernetes",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/deploy-micro-kube-icp",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "INTERMEDIATE",
+        "users": 68
+    },
+    {
+        "category": [
+            "Design Pattern"
+        ],
+        "title": "Prototyping and Design",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/prototyping-design",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 212
+    },
+    {
+        "category": [
+            "Design Pattern"
+        ],
+        "title": "Desenvolvimento \u00c1gil com Padr\u00f5es de Projeto",
+        "partner": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica",
+        "link": "https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 45
+    },
+    {
+        "category": [
+            "Software Development"
+        ],
+        "title": "Agile Planning for Software Products",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/agile-planning-for-software-products",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 1022
+    },
+    {
+        "category": [
+            "Software Development"
+        ],
+        "title": "Software Development Processes and Methodologies",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/software-processes",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 187
+    },
+    {
+        "category": [
+            "Internet Security"
+        ],
+        "title": "Development of Secure Embedded Systems",
+        "partner": "EIT Digital",
+        "link": "https://www.coursera.org/specializations/embedded-systems-security",
+        "rating": 4.2,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 57,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Internet Security"
+        ],
+        "title": "Web Connectivity and Security in Embedded Systems",
+        "partner": "EIT Digital",
+        "link": "https://www.coursera.org/learn/iot-connectivity-security",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 42
+    },
+    {
+        "category": [
+            "Microsoft Excel Vba"
+        ],
+        "title": "Excel/VBA for Creative Problem Solving, Part 3 (Projects)",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/excel-vba-for-creative-problem-solving-part-3-projects",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "ADVANCED",
+        "users": 35
+    }
+]

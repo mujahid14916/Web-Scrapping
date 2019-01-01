@@ -1,0 +1,3454 @@
+[
+    {
+        "category": [
+            "Linear Algebra",
+            "Linear Regression",
+            "Eigenvalues And Eigenvectors"
+        ],
+        "title": "Mathematics for Machine Learning",
+        "partner": "Imperial College London",
+        "link": "https://www.coursera.org/specializations/mathematics-machine-learning",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 61,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Linear Algebra",
+            "Matrices",
+            "Eigenvalues And Eigenvectors"
+        ],
+        "title": "Mathematics for Machine Learning: Linear Algebra",
+        "partner": "Imperial College London",
+        "link": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 1845
+    },
+    {
+        "category": [
+            "Linear Algebra",
+            "Statistics",
+            "Python Programming",
+            "Ipython",
+            "Numpy"
+        ],
+        "title": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0438 Python \u0434\u043b\u044f \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/mathematics-and-python",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "BEGINNER",
+        "users": 3443
+    },
+    {
+        "category": [
+            "Linear Algebra",
+            "Mathematical Optimization",
+            "Eigenvalues And Eigenvectors"
+        ],
+        "title": "Mathematics for Machine Learning: PCA",
+        "partner": "Imperial College London",
+        "link": "https://www.coursera.org/learn/pca-machine-learning",
+        "rating": 4.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 483
+    },
+    {
+        "category": [
+            "Linear Algebra",
+            "Statistics",
+            "Linear Regression",
+            "Linear Model"
+        ],
+        "title": "Advanced Linear Models for Data Science 1: Least Squares",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/linear-models",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "ADVANCED",
+        "users": 85
+    },
+    {
+        "category": [
+            "Statistics",
+            "Linear Regression",
+            "Bayesian Statistics",
+            "Regression Analysis",
+            "Statistical Inference",
+            "R Programming",
+            "Model Selection",
+            "Rstudio",
+            "Statistical Analysis"
+        ],
+        "title": "Statistics with R",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/specializations/statistics",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 99,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Clustering Algorithms",
+            "Machine Learning",
+            "Python Programming",
+            "Random Forest",
+            "Statistical Hypothesis Testing",
+            "Numpy"
+        ],
+        "title": "\u041c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u0430\u043d\u0430\u043b\u0438\u0437 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/specializations/machine-learning-data-analysis",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 181,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Statistics",
+            "Summary Statistics",
+            "Probability",
+            "Probability Distribution",
+            "R Programming",
+            "Exploratory Data Analysis",
+            "Rstudio"
+        ],
+        "title": "Introduction to Probability and Data",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/probability-intro",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 2622
+    },
+    {
+        "category": [
+            "Statistics",
+            "Probability",
+            "Probability Distribution"
+        ],
+        "title": "Basic Statistics",
+        "partner": "University of Amsterdam",
+        "link": "https://www.coursera.org/learn/basic-statistics",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 37,
+        "level": "BEGINNER",
+        "users": 1874
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis",
+            "Unix",
+            "Command-Line Interface",
+            "Python Programming",
+            "R Programming"
+        ],
+        "title": "Genomic Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/genomic-data-science",
+        "rating": 4.3,
+        "type": "SPECIALIZATION",
+        "course_count": 8,
+        "duration": 133,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Science",
+            "Apache Spark"
+        ],
+        "title": "Fundamentals of Scalable Data Science",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/ds",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 218
+    },
+    {
+        "category": [
+            "Statistics",
+            "Hypothesis Testing",
+            "Statistical Hypothesis Testing",
+            "Statistical Inference",
+            "Statistical Analysis"
+        ],
+        "title": "Statistical Inference",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/statistical-inference",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 2925
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Management",
+            "Data Analysis",
+            "Regression Analysis",
+            "Analysis Of Variance",
+            "Machine Learning",
+            "Logistic Regression"
+        ],
+        "title": "Data Analysis and Interpretation",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/specializations/data-analysis",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 67,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Statistics",
+            "Bayesian Statistics",
+            "Statistical Inference"
+        ],
+        "title": "Improving your statistical inferences",
+        "partner": "Eindhoven University of Technology",
+        "link": "https://www.coursera.org/learn/statistical-inferences",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 358
+    },
+    {
+        "category": [
+            "Statistics",
+            "Statistical Analysis"
+        ],
+        "title": "Introduction to Genomic Technologies",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/introduction-genomics",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 1365
+    },
+    {
+        "category": [
+            "Statistics"
+        ],
+        "title": "Estad\u00edstica aplicada a los negocios",
+        "partner": "Universidad Austral",
+        "link": "https://www.coursera.org/learn/estadistica-aplicada-negocios",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 229
+    },
+    {
+        "category": [
+            "Statistics",
+            "Australian National Data Service",
+            "Probability And Statistics"
+        ],
+        "title": "Probability and Statistics: To p or not to p?",
+        "partner": "University of London",
+        "link": "https://www.coursera.org/learn/probability-statistics",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 41
+    },
+    {
+        "category": [
+            "Statistics",
+            "Mapreduce",
+            "Sql",
+            "Data Analysis",
+            "Predictive Analytics"
+        ],
+        "title": "Data Science at Scale",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/specializations/data-science",
+        "rating": 4.0,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 56,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis",
+            "Statistical Analysis"
+        ],
+        "title": "Data Analytics for Lean Six Sigma",
+        "partner": "University of Amsterdam",
+        "link": "https://www.coursera.org/learn/data-analytics-for-lean-six-sigma",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 694
+    },
+    {
+        "category": [
+            "Statistics",
+            "Statistical Hypothesis Testing"
+        ],
+        "title": "\u041f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u0432\u044b\u0432\u043e\u0434\u043e\u0432 \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/stats-for-data-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 39,
+        "level": "ADVANCED",
+        "users": 607
+    },
+    {
+        "category": [
+            "Statistics",
+            "Statistical Analysis"
+        ],
+        "title": "Principles of fMRI 1",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/functional-mri",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 377
+    },
+    {
+        "category": [
+            "Statistics",
+            "Probability",
+            "Probability And Statistics",
+            "Statistical Analysis"
+        ],
+        "title": "Basic Data Descriptors, Statistical Distributions, and Application to Business Decisions",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 719
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis"
+        ],
+        "title": "Statistics for Genomic Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/statistical-genomics",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 143
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis",
+            "Analysis Of Variance",
+            "Exploratory Data Analysis",
+            "Statistical Analysis"
+        ],
+        "title": "Data Analysis Tools",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/data-analysis-tools",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 328
+    },
+    {
+        "category": [
+            "Statistics",
+            "Analytics",
+            "Probability",
+            "Microsoft Excel"
+        ],
+        "title": "Math behind Moneyball",
+        "partner": "University of Houston System",
+        "link": "https://www.coursera.org/learn/mathematics-sport",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 39
+    },
+    {
+        "category": [
+            "Statistics",
+            "Hypothesis Testing"
+        ],
+        "title": "Mathematical Biostatistics Boot Camp 2",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/biostatistics-2",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 47
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis"
+        ],
+        "title": "Data Analysis and Interpretation Capstone",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/data-analysis-capstone",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 25
+    },
+    {
+        "category": [
+            "Statistics",
+            "Data Analysis"
+        ],
+        "title": "Data Science at Scale - Capstone Project",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/datasci-capstone",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 21
+    },
+    {
+        "category": [
+            "Summary Statistics",
+            "R Programming"
+        ],
+        "title": "R Programming",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/r-programming",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 12864
+    },
+    {
+        "category": [
+            "Summary Statistics",
+            "Evaluation",
+            "Data Structure",
+            "Recommender Systems"
+        ],
+        "title": "Recommender Systems",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/specializations/recommender-systems",
+        "rating": 4.2,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 56,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Summary Statistics",
+            "Data Structure",
+            "Recommender Systems",
+            "Australian National Data Service"
+        ],
+        "title": "Introduction to Recommender Systems: Non-Personalized and Content-Based",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/recommender-systems-introduction",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 341
+    },
+    {
+        "category": [
+            "Summary Statistics",
+            "Data Analysis",
+            "Regression Analysis",
+            "Logistic Regression"
+        ],
+        "title": "Regression Modeling in Practice",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/regression-modeling-practice",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 226
+    },
+    {
+        "category": [
+            "Cluster Analysis",
+            "Data Virtualization",
+            "Data Analysis",
+            "Natural Language Processing",
+            "Data Clustering Algorithms",
+            "Data Mining",
+            "Data Visualization"
+        ],
+        "title": "Data Mining",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/specializations/data-mining",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 105,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Cluster Analysis",
+            "Data Clustering Algorithms",
+            "K-Means Clustering"
+        ],
+        "title": "Cluster Analysis in Data Mining",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/cluster-analysis",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 151
+    },
+    {
+        "category": [
+            "Cluster Analysis",
+            "Data Analysis",
+            "Predictive Modelling"
+        ],
+        "title": "Advanced Business Analytics Capstone",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/data-analytics-business-capstone",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 11
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Python Programming",
+            "Location (Geography)"
+        ],
+        "title": "Algorithms for DNA Sequencing",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/dna-sequencing",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 354
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Data Structure"
+        ],
+        "title": "Capstone: Analyzing (Social) Network Data",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/intermediate-programming-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 83
+    },
+    {
+        "category": [
+            "Data Warehousing",
+            "Sql",
+            "Database"
+        ],
+        "title": "Data Warehousing for Business Intelligence",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/specializations/data-warehousing",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 90,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Warehousing",
+            "Sql",
+            "Data Modeling",
+            "Big Data"
+        ],
+        "title": "Relational Database Support for Data Warehouses",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/dwrelational",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 415
+    },
+    {
+        "category": [
+            "Data Warehousing",
+            "Analytics"
+        ],
+        "title": "Design and Build a Data Warehouse for Business Intelligence Implementation",
+        "partner": "University of Colorado System",
+        "link": "https://www.coursera.org/learn/data-warehouse-bi-building",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 173
+    },
+    {
+        "category": [
+            "Mapreduce",
+            "Apache Hadoop",
+            "Big Data"
+        ],
+        "title": "Hadoop Platform and Application Framework",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/hadoop",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Mapreduce",
+            "Sql",
+            "Map",
+            "Big Data"
+        ],
+        "title": "Data Manipulation at Scale: Systems and Algorithms",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/data-manipulation",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 664
+    },
+    {
+        "category": [
+            "Visual Analytics",
+            "Mapping",
+            "Map",
+            "Tableau Software",
+            "Data Visualization",
+            "Visualization (Computer Graphics)"
+        ],
+        "title": "Data Visualization with Tableau",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/specializations/data-visualization",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 70,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Visual Analytics",
+            "Best Practice",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Creating Dashboards and Storytelling with Tableau",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/dataviz-dashboards",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 317
+    },
+    {
+        "category": [
+            "Visual Analytics",
+            "Mapping",
+            "Map",
+            "Tableau Software"
+        ],
+        "title": "Visual Analytics with Tableau",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/dataviz-visual-analytics",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 608
+    },
+    {
+        "category": [
+            "Matrices",
+            "R Programming",
+            "Rstudio"
+        ],
+        "title": "Introducci\u00f3n a Data Science: Programaci\u00f3n Estad\u00edstica con R",
+        "partner": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "link": "https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 2483
+    },
+    {
+        "category": [
+            "Matrices"
+        ],
+        "title": "Excel aplicado a los negocios (Nivel Avanzado)",
+        "partner": "Universidad Austral",
+        "link": "https://www.coursera.org/learn/excel-aplicado-negocios-avanzado",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 305
+    },
+    {
+        "category": [
+            "Estimator",
+            "Dataflow",
+            "Google Cloud Platform",
+            "Machine Learning",
+            "Data Cleansing",
+            "Tensorflow",
+            "Apache Beam",
+            "Feature Engineering"
+        ],
+        "title": "Machine Learning with TensorFlow on Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 41,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Estimator",
+            "Dataflow",
+            "Time Series",
+            "Recommender Systems",
+            "Google",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "title": "Advanced Machine Learning with TensorFlow on Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 43,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "Estimator",
+            "Tensorflow"
+        ],
+        "title": "Intro to TensorFlow",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/intro-tensorflow",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 816
+    },
+    {
+        "category": [
+            "Estimator",
+            "Machine Learning",
+            "Best Practice"
+        ],
+        "title": "Art and Science of Machine Learning",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/art-science-ml",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 408
+    },
+    {
+        "category": [
+            "Estimator"
+        ],
+        "title": "Image Understanding with TensorFlow on GCP",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "ADVANCED",
+        "users": 66
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Regression Analysis"
+        ],
+        "title": "Machine Learning: Regression",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/ml-regression",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 3926
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Data Analysis",
+            "Business Analytics",
+            "Regression Analysis",
+            "Microsoft Excel",
+            "Hypothesis Testing",
+            "Statistical Hypothesis Testing",
+            "Statistical Analysis"
+        ],
+        "title": "Business Statistics and Analysis",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/specializations/business-statistics-analysis",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 63,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Data Analysis",
+            "Predictive Modelling",
+            "Data Model",
+            "Microsoft Excel",
+            "Statistical Classification"
+        ],
+        "title": "Mastering Data Analysis in Excel",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/analytics-excel",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 27,
+        "level": "BEGINNER",
+        "users": 2703
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Regression Analysis",
+            "Linear Model",
+            "Model Selection"
+        ],
+        "title": "Regression Models",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/regression-models",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 2328
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Regression Analysis"
+        ],
+        "title": "Linear Regression and Modeling",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/linear-regression-model",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 814
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Machine Learning",
+            "Logistic Regression"
+        ],
+        "title": "\u6a5f\u5668\u5b78\u7fd2\u57fa\u77f3\u4e0b (Machine Learning Foundations)---Algorithmic Foundations",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/ntumlone-algorithmicfoundations",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 154
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Regression Analysis"
+        ],
+        "title": "Linear Regression for Business Statistics",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/linear-regression-business-statistics",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 407
+    },
+    {
+        "category": [
+            "Linear Regression",
+            "Bayesian Statistics",
+            "R Programming",
+            "Model Selection",
+            "Exploratory Data Analysis",
+            "Statistical Analysis"
+        ],
+        "title": "Statistics with R Capstone",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/statistics-project",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 97
+    },
+    {
+        "category": [
+            "Sql",
+            "Data Virtualization",
+            "Data Analysis",
+            "Data Science",
+            "Data Clustering Algorithms",
+            "Machine Learning",
+            "Python Programming",
+            "Data Visualization",
+            "Ipython"
+        ],
+        "title": "IBM Data Science Professional Certificate",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/specializations/ibm-data-science-professional-certificate",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 9,
+        "duration": 69,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Sql"
+        ],
+        "title": "SQL for Data Science",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/sql-for-data-science",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 1002
+    },
+    {
+        "category": [
+            "Sql",
+            "Join (Sql)",
+            "Database",
+            "Ipython"
+        ],
+        "title": "Databases and SQL for Data Science",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/sql-data-science",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 897
+    },
+    {
+        "category": [
+            "Sql",
+            "Database"
+        ],
+        "title": "Managing Big Data with MySQL",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/analytics-mysql",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 2133
+    },
+    {
+        "category": [
+            "Sql",
+            "Data Analysis",
+            "Data Model",
+            "Database",
+            "Business Analytics",
+            "Data Quality"
+        ],
+        "title": "Introduction to Data Analytics for Business",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/data-analytics-business",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 354
+    },
+    {
+        "category": [
+            "Sql"
+        ],
+        "title": "Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames",
+        "partner": "Yandex",
+        "link": "https://www.coursera.org/learn/big-data-analysis",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 40,
+        "level": "ADVANCED",
+        "users": 73
+    },
+    {
+        "category": [
+            "Sql",
+            "Join (Sql)",
+            "Database"
+        ],
+        "title": "Data Systems",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/specializations/data-systems",
+        "rating": 3.9,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 49,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Sql",
+            "Database",
+            "Big Data"
+        ],
+        "title": "\u0411\u0430\u0437\u044b \u0434\u0430\u043d\u043d\u044b\u0445 (Databases)",
+        "partner": "Saint Petersburg State University",
+        "link": "https://www.coursera.org/learn/data-bases-intr",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 64
+    },
+    {
+        "category": [
+            "Sql",
+            "Join (Sql)",
+            "Database"
+        ],
+        "title": "Core Database Concepts",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/core-database",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 53
+    },
+    {
+        "category": [
+            "Sql",
+            "Data Analysis",
+            "Business Analytics",
+            "Tableau Software"
+        ],
+        "title": "Increasing Real Estate Management Profits: Harnessing Data Analytics",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/analytics-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 141
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Google Cloud Platform",
+            "Google",
+            "Machine Learning"
+        ],
+        "title": "How Google does Machine Learning",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/google-machine-learning",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 2149
+    },
+    {
+        "category": [
+            "Application Programming Interfaces"
+        ],
+        "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 1995
+    },
+    {
+        "category": [
+            "Application Programming Interfaces",
+            "Sentiment Analysis",
+            "Python Programming",
+            "R Programming",
+            "Statistical Analysis"
+        ],
+        "title": "Social Media Data Analytics",
+        "partner": "Rutgers the State University of New Jersey",
+        "link": "https://www.coursera.org/learn/social-media-data-analytics",
+        "rating": 4.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 107
+    },
+    {
+        "category": [
+            "Dataflow"
+        ],
+        "title": "Building Resilient Streaming Systems on Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/building-resilient-streaming-systems-gcp",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 904
+    },
+    {
+        "category": [
+            "Dataflow",
+            "Google",
+            "Cloud Computing"
+        ],
+        "title": "End-to-End Machine Learning with TensorFlow on GCP",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "ADVANCED",
+        "users": 161
+    },
+    {
+        "category": [
+            "Dataflow",
+            "Google",
+            "Apache Beam",
+            "Feature Engineering"
+        ],
+        "title": "Feature Engineering",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/feature-engineering",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 519
+    },
+    {
+        "category": [
+            "Data Modeling",
+            "Apache Hadoop",
+            "Big Data"
+        ],
+        "title": "Big Data",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/big-data",
+        "rating": 4.4,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 101,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Modeling",
+            "Analytics",
+            "Data Science",
+            "Data Mining",
+            "Data Collection"
+        ],
+        "title": "Data Science Methodology",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/data-science-methodology",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 1277
+    },
+    {
+        "category": [
+            "Data Modeling",
+            "Data Management",
+            "Data Model",
+            "Database",
+            "Big Data"
+        ],
+        "title": "Big Data Modeling and Management Systems",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-management",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 1760
+    },
+    {
+        "category": [
+            "Data Management",
+            "Data Analysis",
+            "Geographic Information System",
+            "Project"
+        ],
+        "title": "Geographic Information Systems (GIS)",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/specializations/gis",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 91,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Management",
+            "Data Analysis",
+            "Data Type",
+            "Big Data"
+        ],
+        "title": "Data-driven Decision Making",
+        "partner": "PwC",
+        "link": "https://www.coursera.org/learn/decision-making",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 2924
+    },
+    {
+        "category": [
+            "Data Management",
+            "Data Science"
+        ],
+        "title": "Building a Data Science Team",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/build-data-science-team",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "BEGINNER",
+        "users": 2175
+    },
+    {
+        "category": [
+            "Data Management",
+            "Data Analysis",
+            "Data Science"
+        ],
+        "title": "Data Science in Real Life",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/real-life-data-science",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 1365
+    },
+    {
+        "category": [
+            "Data Management",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Data Management and Visualization",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/data-visualization",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 661
+    },
+    {
+        "category": [
+            "Data Management",
+            "Machine Learning",
+            "Decision Tree",
+            "Exploratory Data Analysis",
+            "Statistical Analysis"
+        ],
+        "title": "Machine Learning for Data Analysis",
+        "partner": "Wesleyan University",
+        "link": "https://www.coursera.org/learn/machine-learning-data-analysis",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 208
+    },
+    {
+        "category": [
+            "Data Management",
+            "Australian National Data Service"
+        ],
+        "title": "Research Data Management and Sharing",
+        "partner": "The University of North Carolina at Chapel Hill",
+        "link": "https://www.coursera.org/learn/data-management",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 195
+    },
+    {
+        "category": [
+            "Sentiment Analysis"
+        ],
+        "title": "Text Mining and Analytics",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/text-mining",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 326
+    },
+    {
+        "category": [
+            "Sentiment Analysis",
+            "Data Science",
+            "Data Mining",
+            "Machine Learning"
+        ],
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0437 \u0434\u0430\u043d\u043d\u044b\u0445: \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/data-analysis-project",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "ADVANCED",
+        "users": 194
+    },
+    {
+        "category": [
+            "Data Virtualization",
+            "Map",
+            "Data Visualization",
+            "Pandas"
+        ],
+        "title": "Data Visualization with Python",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/python-for-data-visualization",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "INTERMEDIATE",
+        "users": 620
+    },
+    {
+        "category": [
+            "Data Virtualization",
+            "Microsoft Excel",
+            "Data Visualization"
+        ],
+        "title": "Data Visualization with Advanced Excel",
+        "partner": "PwC",
+        "link": "https://www.coursera.org/learn/advanced-excel",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 1359
+    },
+    {
+        "category": [
+            "Data Virtualization",
+            "Location (Geography)",
+            "Data Visualization"
+        ],
+        "title": "Data Visualization",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/datavisualization",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 652
+    },
+    {
+        "category": [
+            "Data Virtualization",
+            "Data Analysis",
+            "Data Visualization"
+        ],
+        "title": "Communicating Business Analytics Results",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/communicating-business-analytics-results",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 93
+    },
+    {
+        "category": [
+            "Evaluation",
+            "Machine Learning",
+            "Machine Learning Algorithms",
+            "Scikit-Learn"
+        ],
+        "title": "Applied Machine Learning in Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-machine-learning",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "INTERMEDIATE",
+        "users": 2639
+    },
+    {
+        "category": [
+            "Evaluation",
+            "Recommender Systems",
+            "Australian National Data Service"
+        ],
+        "title": "Recommender Systems: Evaluation and Metrics",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/recommender-metrics",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 119
+    },
+    {
+        "category": [
+            "Time Series",
+            "Predictive Modelling",
+            "Feature Engineering"
+        ],
+        "title": "How to Win a Data Science Competition: Learn from Top Kagglers",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/competitive-data-science",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 48,
+        "level": "ADVANCED",
+        "users": 418
+    },
+    {
+        "category": [
+            "Time Series",
+            "Regression Analysis"
+        ],
+        "title": "Econometrics: Methods and Applications",
+        "partner": "Erasmus University Rotterdam",
+        "link": "https://www.coursera.org/learn/erasmus-econometrics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 679
+    },
+    {
+        "category": [
+            "Time Series"
+        ],
+        "title": "Practical Time Series Analysis",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/learn/practical-time-series-analysis",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 347
+    },
+    {
+        "category": [
+            "Time Series",
+            "Data Science"
+        ],
+        "title": "\u041f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/data-analysis-applications",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "INTERMEDIATE",
+        "users": 447
+    },
+    {
+        "category": [
+            "Time Series"
+        ],
+        "title": "Sequence Models for Time Series and Natural Language Processing",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "ADVANCED",
+        "users": 53
+    },
+    {
+        "category": [
+            "Bayesian Statistics"
+        ],
+        "title": "Bayesian Statistics: From Concept to Data Analysis",
+        "partner": "University of California, Santa Cruz",
+        "link": "https://www.coursera.org/learn/bayesian-statistics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "INTERMEDIATE",
+        "users": 1322
+    },
+    {
+        "category": [
+            "Bayesian Statistics"
+        ],
+        "title": "Bayesian Statistics",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/bayesian",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "INTERMEDIATE",
+        "users": 477
+    },
+    {
+        "category": [
+            "Bayesian Statistics",
+            "Australian National Data Service",
+            "Gibbs Sampling"
+        ],
+        "title": "Bayesian Statistics: Techniques and Models",
+        "partner": "University of California, Santa Cruz",
+        "link": "https://www.coursera.org/learn/mcmc-bayesian-statistics",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 36,
+        "level": "INTERMEDIATE",
+        "users": 155
+    },
+    {
+        "category": [
+            "Analytics",
+            "Business Analytics",
+            "Mathematical Optimization",
+            "Decision Tree"
+        ],
+        "title": "Business Analytics",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/specializations/business-analytics",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 61,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Analytics"
+        ],
+        "title": "Graph Analytics for Big Data",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-graph-analytics",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 677
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Big Data"
+        ],
+        "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 3985
+    },
+    {
+        "category": [
+            "Google Cloud Platform",
+            "Google",
+            "Machine Learning",
+            "Big Data"
+        ],
+        "title": "Google Cloud Platform Big Data and Machine Learning Fundamentals en Espa\u00f1ol",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 116
+    },
+    {
+        "category": [
+            "Probability",
+            "Graphical Model",
+            "Bayesian Network"
+        ],
+        "title": "Probabilistic Graphical Models 1: Representation",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/probabilistic-graphical-models",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "ADVANCED",
+        "users": 922
+    },
+    {
+        "category": [
+            "Probability",
+            "Probability Distribution",
+            "Probability And Statistics"
+        ],
+        "title": "An Intuitive Introduction to Probability",
+        "partner": "University of Zurich",
+        "link": "https://www.coursera.org/learn/introductiontoprobability",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 510
+    },
+    {
+        "category": [
+            "Data Manipulation",
+            "Pandas"
+        ],
+        "title": "Introduction to Data Science in Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-data-analysis",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 8543
+    },
+    {
+        "category": [
+            "Data Manipulation",
+            "Data Cleansing"
+        ],
+        "title": "Getting and Cleaning Data",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/data-cleaning",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 5482
+    },
+    {
+        "category": [
+            "Data Manipulation",
+            "Mapping",
+            "R Programming",
+            "Data Visualization"
+        ],
+        "title": "Mastering Software Development in R",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/r",
+        "rating": 4.2,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 56,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Manipulation",
+            "R Programming"
+        ],
+        "title": "The R Programming Environment",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/r-programming-environment",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 734
+    },
+    {
+        "category": [
+            "Data Manipulation",
+            "Big Data"
+        ],
+        "title": "Functional Programming in Scala Capstone",
+        "partner": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "link": "https://www.coursera.org/learn/scala-capstone",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 362
+    },
+    {
+        "category": [
+            "Apache Hadoop",
+            "Big Data"
+        ],
+        "title": "Introduction to Big Data",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-introduction",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 4472
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Model Selection",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Data Analysis with Python",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/data-analysis-with-python",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 959
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Microsoft Excel"
+        ],
+        "title": "Introduction to Data Analysis Using Excel",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/excel-data-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 2266
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Microsoft Excel",
+            "Data Cleansing"
+        ],
+        "title": "Problem Solving with Excel",
+        "partner": "PwC",
+        "link": "https://www.coursera.org/learn/excel-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 2601
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Business Analytics",
+            "Tableau Software",
+            "Visualization (Computer Graphics)"
+        ],
+        "title": "Data Visualization and Communication with Tableau",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/analytics-tableau",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 1775
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Business Analytics",
+            "Mathematical Optimization"
+        ],
+        "title": "Business Analytics for Decision Making",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/business-analytics-decision-making",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 170
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Business Analytics"
+        ],
+        "title": "Business Analytics and Digital Media",
+        "partner": "Indian School of Business",
+        "link": "https://www.coursera.org/learn/business-analytics",
+        "rating": 4.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 131
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Geographic Information System",
+            "Project"
+        ],
+        "title": "Geospatial Analysis Project",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/gis-capstone",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 87
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Business Analytics",
+            "Regression Analysis",
+            "Microsoft Excel",
+            "Predictive Analytics",
+            "Statistical Hypothesis Testing"
+        ],
+        "title": "Business Statistics and Analysis Capstone",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/business-statistics-analysis-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 101
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Microsoft Excel"
+        ],
+        "title": "Data Analysis and Presentation Skills: the PwC Approach Final Project",
+        "partner": "PwC",
+        "link": "https://www.coursera.org/learn/data-analysis-project-pwc",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 98
+    },
+    {
+        "category": [
+            "Data Analysis",
+            "Natural Language Processing",
+            "Data Clustering Algorithms",
+            "Data Mining"
+        ],
+        "title": "Data Mining Project",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/data-mining-project",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 21
+    },
+    {
+        "category": [
+            "Data Science",
+            "Regression Analysis",
+            "Machine Learning",
+            "Data Cleansing",
+            "Github",
+            "R Programming",
+            "Exploratory Data Analysis",
+            "Rstudio"
+        ],
+        "title": "Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/jhu-data-science",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 10,
+        "duration": 136,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Science",
+            "Data Mining"
+        ],
+        "title": "What is Data Science?",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/what-is-datascience",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 5,
+        "level": "BEGINNER",
+        "users": 3617
+    },
+    {
+        "category": [
+            "Data Science",
+            "Command-Line Interface",
+            "Github",
+            "Rstudio"
+        ],
+        "title": "The Data Scientist\u2019s Toolbox",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/data-scientists-tools",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 17333
+    },
+    {
+        "category": [
+            "Data Science",
+            "Ipython"
+        ],
+        "title": "Open Source tools for Data Science",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/open-source-tools-for-data-science",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 1844
+    },
+    {
+        "category": [
+            "Data Science",
+            "Deep Learning",
+            "Machine Learning",
+            "Apache Spark"
+        ],
+        "title": "Advanced Data Science with IBM",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/specializations/advanced-data-science-ibm",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 64,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Science",
+            "Project"
+        ],
+        "title": "A Crash Course in Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/data-science-course",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "BEGINNER",
+        "users": 4358
+    },
+    {
+        "category": [
+            "Data Science",
+            "Data Clustering Algorithms"
+        ],
+        "title": "Applied Data Science Capstone",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/applied-data-science-capstone",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 215
+    },
+    {
+        "category": [
+            "Data Science",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Data Science Capstone",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/data-science-project",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 760
+    },
+    {
+        "category": [
+            "Data Science",
+            "Machine Learning",
+            "Python Programming"
+        ],
+        "title": "Data Science in Stratified Healthcare and Precision Medicine",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/datascimed",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 33
+    },
+    {
+        "category": [
+            "Data Science",
+            "Business Analytics",
+            "Big Data"
+        ],
+        "title": "Introdu\u00e7\u00e3o ao Big Data",
+        "partner": "Funda\u00e7\u00e3o Instituto de Administra\u00e7\u00e3o",
+        "link": "https://www.coursera.org/learn/introducao-big-data",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 126
+    },
+    {
+        "category": [
+            "Data Science"
+        ],
+        "title": "Data Science Ethics",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/data-science-ethics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 55
+    },
+    {
+        "category": [
+            "Data Structure",
+            "Ipython"
+        ],
+        "title": "Julia Scientific Programming",
+        "partner": "University of Cape Town",
+        "link": "https://www.coursera.org/learn/julia-programming",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 132
+    },
+    {
+        "category": [
+            "Predictive Modelling",
+            "Machine Learning",
+            "Machine Learning Algorithms",
+            "Random Forest",
+            "Decision Tree"
+        ],
+        "title": "Practical Machine Learning",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/practical-machine-learning",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 2251
+    },
+    {
+        "category": [
+            "Predictive Modelling",
+            "Regression Analysis",
+            "Decision Tree",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Predictive Modeling and Analytics",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/predictive-modeling-analytics",
+        "rating": 3.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 162
+    },
+    {
+        "category": [
+            "Natural Language Processing",
+            "Deep Learning",
+            "Tensorflow",
+            "Feature Engineering"
+        ],
+        "title": "Advanced Machine Learning",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/specializations/aml",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 247,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "Natural Language Processing",
+            "Deep Learning"
+        ],
+        "title": "Natural Language Processing",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/language-processing",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 34,
+        "level": "ADVANCED",
+        "users": 250
+    },
+    {
+        "category": [
+            "Artificial Neural Network",
+            "Data Clustering Algorithms",
+            "Regression Analysis",
+            "Machine Learning",
+            "Machine Learning",
+            "Unsupervised Learning",
+            "Logistic Regression",
+            "Logistic Regression",
+            "Machine Learning Algorithms",
+            "K-Means Clustering",
+            "Classification Algorithms",
+            "Decision Tree",
+            "Supervised Learning",
+            "Statistical Classification"
+        ],
+        "title": "Machine Learning",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/machine-learning",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 55,
+        "level": "BEGINNER",
+        "users": 89137
+    },
+    {
+        "category": [
+            "Artificial Neural Network",
+            "Deep Learning",
+            "Tensorflow"
+        ],
+        "title": "Deep Learning",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/specializations/deep-learning",
+        "rating": 4.8,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 75,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Artificial Neural Network",
+            "Deep Learning"
+        ],
+        "title": "Neural Networks and Deep Learning",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/learn/neural-networks-deep-learning",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 42673
+    },
+    {
+        "category": [
+            "Artificial Neural Network"
+        ],
+        "title": "Convolutional Neural Networks",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/learn/convolutional-neural-networks",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "INTERMEDIATE",
+        "users": 16767
+    },
+    {
+        "category": [
+            "Artificial Neural Network"
+        ],
+        "title": "Sequence Models",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/learn/nlp-sequence-models",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 10427
+    },
+    {
+        "category": [
+            "Artificial Neural Network",
+            "Deep Learning"
+        ],
+        "title": "Introduction to Deep Learning",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/intro-to-deep-learning",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 37,
+        "level": "ADVANCED",
+        "users": 679
+    },
+    {
+        "category": [
+            "Artificial Neural Network"
+        ],
+        "title": "Practical Reinforcement Learning",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/practical-rl",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 39,
+        "level": "ADVANCED",
+        "users": 126
+    },
+    {
+        "category": [
+            "Artificial Neural Network",
+            "Supervised Learning"
+        ],
+        "title": "Computational Neuroscience",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/computational-neuroscience",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 456
+    },
+    {
+        "category": [
+            "Geographic Information System",
+            "Database",
+            "Big Data"
+        ],
+        "title": "Spatial Data Science and Applications",
+        "partner": "Yonsei University",
+        "link": "https://www.coursera.org/learn/spatial-data-science",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 83
+    },
+    {
+        "category": [
+            "Data Clustering Algorithms",
+            "K-Means Clustering"
+        ],
+        "title": "Machine Learning: Clustering & Retrieval",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/ml-clustering-and-retrieval",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 1522
+    },
+    {
+        "category": [
+            "Data Clustering Algorithms"
+        ],
+        "title": "\u041f\u043e\u0438\u0441\u043a \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0432 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/unsupervised-learning",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "INTERMEDIATE",
+        "users": 909
+    },
+    {
+        "category": [
+            "Graphical Model",
+            "Inference",
+            "Bayesian Network",
+            "Gibbs Sampling"
+        ],
+        "title": "Probabilistic Graphical Models",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/specializations/probabilistic-graphical-models",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 3,
+        "duration": 76,
+        "level": "ADVANCED",
+        "users": 0
+    },
+    {
+        "category": [
+            "Graphical Model",
+            "Bayesian Network"
+        ],
+        "title": "Probabilistic Graphical Models 3: Learning",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/probabilistic-graphical-models-3-learning",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "ADVANCED",
+        "users": 178
+    },
+    {
+        "category": [
+            "Database",
+            "Python Programming",
+            "Visualization (Computer Graphics)"
+        ],
+        "title": "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-data-visualization",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 3667
+    },
+    {
+        "category": [
+            "Data Type",
+            "Python Programming",
+            "Pandas",
+            "Numpy"
+        ],
+        "title": "Python for Data Science",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/python-for-applied-data-science",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 1446
+    },
+    {
+        "category": [
+            "Data Type",
+            "Data Collection",
+            "Data Quality"
+        ],
+        "title": "Framework for Data Collection and Analysis",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/data-collection-framework",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 275
+    },
+    {
+        "category": [
+            "Recommender Systems"
+        ],
+        "title": "Recommendation Systems with TensorFlow on GCP",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/recommendation-models-gcp",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "ADVANCED",
+        "users": 35
+    },
+    {
+        "category": [
+            "Recommender Systems"
+        ],
+        "title": "Matrix Factorization and Advanced Techniques",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/matrix-factorization",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 100
+    },
+    {
+        "category": [
+            "Business Analytics"
+        ],
+        "title": "Business Metrics for Data-Driven Companies",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/analytics-business-metrics",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 4763
+    },
+    {
+        "category": [
+            "Business Analytics",
+            "Mathematical Optimization"
+        ],
+        "title": "Business Analytics Capstone",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/wharton-capstone-analytics",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 339
+    },
+    {
+        "category": [
+            "Unix",
+            "Github",
+            "Cloud Computing"
+        ],
+        "title": "The Unix Workbench",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/unix",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 389
+    },
+    {
+        "category": [
+            "Unix",
+            "Command-Line Interface"
+        ],
+        "title": "Command Line Tools for Genomic Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/genomic-tools",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 230
+    },
+    {
+        "category": [
+            "Deep Learning",
+            "Best Practice"
+        ],
+        "title": "Structuring Machine Learning Projects",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/learn/machine-learning-projects",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 22111
+    },
+    {
+        "category": [
+            "Deep Learning"
+        ],
+        "title": "Applied AI with DeepLearning",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/ai",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "ADVANCED",
+        "users": 180
+    },
+    {
+        "category": [
+            "Microsoft Excel",
+            "Hypothesis Testing",
+            "Statistical Hypothesis Testing",
+            "Statistical Analysis"
+        ],
+        "title": "Business Applications of Hypothesis Testing and Confidence Interval Estimation",
+        "partner": "Rice University",
+        "link": "https://www.coursera.org/learn/hypothesis-testing-confidence-intervals",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 394
+    },
+    {
+        "category": [
+            "Australian National Data Service"
+        ],
+        "title": "Combining and Analyzing Complex Data",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/data-collection-analytics-project",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 29
+    },
+    {
+        "category": [
+            "Australian National Data Service"
+        ],
+        "title": "Science Literacy - How Solid Science Can Help You Save the World",
+        "partner": "Erasmus University Rotterdam",
+        "link": "https://www.coursera.org/learn/science-literacy",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 28
+    },
+    {
+        "category": [
+            "Mapping",
+            "Map"
+        ],
+        "title": "Maps and the Geospatial Revolution",
+        "partner": "The Pennsylvania State University",
+        "link": "https://www.coursera.org/learn/geospatial",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 113
+    },
+    {
+        "category": [
+            "Mapping",
+            "R Programming",
+            "Data Visualization"
+        ],
+        "title": "Building Data Visualization Tools",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/r-data-visualization",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 109
+    },
+    {
+        "category": [
+            "Google"
+        ],
+        "title": "Machine Learning with TensorFlow on Google Cloud Platform en Espa\u00f1ol",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-es",
+        "rating": 4.9,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 42,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Google"
+        ],
+        "title": "How Google does Machine Learning en Espa\u00f1ol",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/google-machine-learning-es",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 8
+    },
+    {
+        "category": [
+            "Data Mining",
+            "Decision Tree"
+        ],
+        "title": "Process Mining: Data science in Action",
+        "partner": "Eindhoven University of Technology",
+        "link": "https://www.coursera.org/learn/process-mining",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 29,
+        "level": "INTERMEDIATE",
+        "users": 451
+    },
+    {
+        "category": [
+            "Data Mining"
+        ],
+        "title": "Pattern Discovery in Data Mining",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/data-patterns",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 162
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Data Visualization",
+            "Scikit-Learn",
+            "Pandas"
+        ],
+        "title": "Applied Data Science with Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/data-science-python",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 92,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Ipython"
+        ],
+        "title": "Machine Learning Foundations: A Case Study Approach",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/ml-foundations",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 7959
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Unsupervised Learning",
+            "Logistic Regression",
+            "Decision Tree",
+            "Supervised Learning"
+        ],
+        "title": "Machine Learning with Python",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/machine-learning-with-python",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 401
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Tensorflow"
+        ],
+        "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/serverless-machine-learning-gcp",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 1245
+    },
+    {
+        "category": [
+            "Machine Learning"
+        ],
+        "title": "\u6a5f\u5668\u5b78\u7fd2\u57fa\u77f3\u4e0a (Machine Learning Foundations)---Mathematical Foundations",
+        "partner": "National Taiwan University",
+        "link": "https://www.coursera.org/learn/ntumlone-mathematicalfoundations",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 521
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Unsupervised Learning",
+            "Supervised Learning"
+        ],
+        "title": "Advanced Machine Learning and Signal Processing",
+        "partner": "IBM",
+        "link": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "ADVANCED",
+        "users": 84
+    },
+    {
+        "category": [
+            "Machine Learning",
+            "Logistic Regression",
+            "Tensorflow"
+        ],
+        "title": "Introduction to Machine Learning",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/machine-learning-duke",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 26
+    },
+    {
+        "category": [
+            "Machine Learning"
+        ],
+        "title": "Production Machine Learning Systems",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/gcp-production-ml-systems",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "ADVANCED",
+        "users": 79
+    },
+    {
+        "category": [
+            "Machine Learning"
+        ],
+        "title": "Practical Machine Learning on H2O",
+        "partner": "H2O",
+        "link": "https://www.coursera.org/learn/machine-learning-h2o",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "INTERMEDIATE",
+        "users": 12
+    },
+    {
+        "category": [
+            "Machine Learning"
+        ],
+        "title": "Machine Learning with TensorFlow on Google Cloud Platform em Portugu\u00eas Brasileiro",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 42,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Machine Learning"
+        ],
+        "title": "How Google does Machine Learning em Portugu\u00eas Brasileiro",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/google-machine-learning-br",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 16
+    },
+    {
+        "category": [
+            "Data Collection",
+            "Data Quality"
+        ],
+        "title": "Survey Data Collection and Analytics",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/specializations/data-collection",
+        "rating": 3.9,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 98,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Data Cleansing"
+        ],
+        "title": "Launching into Machine Learning",
+        "partner": "Google Cloud",
+        "link": "https://www.coursera.org/learn/launching-machine-learning",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 1093
+    },
+    {
+        "category": [
+            "Predictive Analytics"
+        ],
+        "title": "Practical Predictive Analytics: Models and Methods",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/predictive-analytics",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 280
+    },
+    {
+        "category": [
+            "Hypothesis Testing",
+            "Statistical Inference",
+            "Statistical Inference",
+            "Inference"
+        ],
+        "title": "Inferential Statistics",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/inferential-statistics-intro",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 1170
+    },
+    {
+        "category": [
+            "Logistic Regression",
+            "Classification Algorithms",
+            "Decision Tree",
+            "Statistical Classification"
+        ],
+        "title": "Machine Learning: Classification",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/ml-classification",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 2535
+    },
+    {
+        "category": [
+            "Linear Model"
+        ],
+        "title": "Advanced Linear Models for Data Science 2: Statistical Linear Models",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/linear-models-2",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "ADVANCED",
+        "users": 25
+    },
+    {
+        "category": [
+            "Machine Learning Algorithms",
+            "Scikit-Learn",
+            "Pandas",
+            "Ipython"
+        ],
+        "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0435 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435",
+        "partner": "National Research University Higher School of Economics",
+        "link": "https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 35,
+        "level": "BEGINNER",
+        "users": 1724
+    },
+    {
+        "category": [
+            "Machine Learning Algorithms"
+        ],
+        "title": "Machine Learning and Reinforcement Learning in Finance",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/specializations/machine-learning-reinforcement-finance",
+        "rating": 3.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 71,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Machine Learning Algorithms"
+        ],
+        "title": "Fundamentals of Machine Learning in Finance",
+        "partner": "New York University Tandon School of Engineering",
+        "link": "https://www.coursera.org/learn/fundamentals-machine-learning-in-finance",
+        "rating": 3.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "INTERMEDIATE",
+        "users": 92
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Python for Genomic Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/python-genomics",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 580
+    },
+    {
+        "category": [
+            "Python Programming"
+        ],
+        "title": "Data Analytics Foundations for Accountancy I",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/data-analytics-accountancy-1",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 48,
+        "level": "BEGINNER",
+        "users": 4
+    },
+    {
+        "category": [
+            "Random Forest",
+            "Supervised Learning"
+        ],
+        "title": "\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u043d\u0430 \u0440\u0430\u0437\u043c\u0435\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Moscow Institute of Physics and Technology",
+        "link": "https://www.coursera.org/learn/supervised-learning",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 43,
+        "level": "INTERMEDIATE",
+        "users": 1535
+    },
+    {
+        "category": [
+            "Mathematical Optimization",
+            "Tensorflow"
+        ],
+        "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+        "partner": "deeplearning.ai",
+        "link": "https://www.coursera.org/learn/deep-neural-network",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 26986
+    },
+    {
+        "category": [
+            "Mathematical Optimization"
+        ],
+        "title": "Experimentation for Improvement",
+        "partner": "McMaster University",
+        "link": "https://www.coursera.org/learn/experimentation",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "INTERMEDIATE",
+        "users": 396
+    },
+    {
+        "category": [
+            "Classification Algorithms",
+            "Statistical Classification"
+        ],
+        "title": "Machine Learning With Big Data",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-machine-learning",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 1040
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Big Data Integration and Processing",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-integration-processing",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 1240
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Big Data \u2013 Introducci\u00f3n al uso pr\u00e1ctico de datos masivos",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/specializations/big-data-introduccion",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 75,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Big Data: el impacto de los datos masivos en la sociedad actual",
+        "partner": "Universitat Aut\u00f2noma de Barcelona",
+        "link": "https://www.coursera.org/learn/impacto-datos-masivos",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 46
+    },
+    {
+        "category": [
+            "Big Data",
+            "Exploratory Data Analysis"
+        ],
+        "title": "Big Data - Capstone Project",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/big-data-project",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 209
+    },
+    {
+        "category": [
+            "Big Data",
+            "Data Visualization"
+        ],
+        "title": "Interprofessional Healthcare Informatics",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/learn/health-informatics-professional",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 193
+    },
+    {
+        "category": [
+            "Big Data"
+        ],
+        "title": "Communicating Data Science Results",
+        "partner": "University of Washington",
+        "link": "https://www.coursera.org/learn/data-results",
+        "rating": 3.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 124
+    },
+    {
+        "category": [
+            "Location (Geography)"
+        ],
+        "title": "Multivariate and Geographical Data Analysis",
+        "partner": "Arizona State University",
+        "link": "https://www.coursera.org/learn/multivariate-geographical-analysis",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "INTERMEDIATE",
+        "users": 3
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "Advanced R Programming",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/advanced-r",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "INTERMEDIATE",
+        "users": 340
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0437 \u0434\u0430\u043d\u043d\u044b\u0445",
+        "partner": "Novosibirsk State University",
+        "link": "https://www.coursera.org/specializations/analiz-dannykh",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 33,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0434\u0430\u043d\u043d\u044b\u0435",
+        "partner": "Novosibirsk State University",
+        "link": "https://www.coursera.org/learn/vvedeniye-dannyye",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "INTERMEDIATE",
+        "users": 78
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "Bioconductor for Genomic Data Science",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/bioconductor",
+        "rating": 4.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 149
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "Introduction to Neurohacking In R",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/neurohacking",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 146
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "Building R Packages",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/r-packages",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 150
+    },
+    {
+        "category": [
+            "R Programming"
+        ],
+        "title": "Mastering Software Development in R Capstone",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/r-capstone",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 27
+    },
+    {
+        "category": [
+            "Inference",
+            "Gibbs Sampling"
+        ],
+        "title": "Probabilistic Graphical Models 2: Inference",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/probabilistic-graphical-models-2-inference",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "ADVANCED",
+        "users": 297
+    },
+    {
+        "category": [
+            "Exploratory Data Analysis"
+        ],
+        "title": "Exploratory Data Analysis",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/exploratory-data-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 4169
+    },
+    {
+        "category": [
+            "Data Visualization"
+        ],
+        "title": "Applied Plotting, Charting & Data Representation in Python",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/python-plotting",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 2177
+    },
+    {
+        "category": [
+            "Data Visualization"
+        ],
+        "title": "Data Visualization with Tableau Project",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/dataviz-project",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 80
+    },
+    {
+        "category": [
+            "Visualization (Computer Graphics)"
+        ],
+        "title": "Fundamentals of Visualization with Tableau",
+        "partner": "University of California, Davis",
+        "link": "https://www.coursera.org/learn/data-visualization-tableau",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 1603
+    }
+]

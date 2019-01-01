@@ -1,0 +1,1673 @@
+[
+    {
+        "category": [
+            "Clinical Study Design",
+            "Statistics",
+            "Data Type",
+            "Statistical Methods",
+            "Statistical Analysis"
+        ],
+        "title": "Understanding Clinical Research: Behind the Statistics",
+        "partner": "University of Cape Town",
+        "link": "https://www.coursera.org/learn/clinical-research",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 848
+    },
+    {
+        "category": [
+            "Statistics",
+            "Statistical Methods",
+            "Biodiversity",
+            "Statistical Analysis"
+        ],
+        "title": "Biological Diversity (Theories, Measures and Data sampling techniques)",
+        "partner": "National Research Tomsk State University",
+        "link": "https://www.coursera.org/learn/biological-diversity",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 67
+    },
+    {
+        "category": [
+            "Cell Biology",
+            "Botany",
+            "Plant"
+        ],
+        "title": "Understanding Plants - Part I: What a Plant Knows",
+        "partner": "Tel Aviv University",
+        "link": "https://www.coursera.org/learn/plantknows",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 494
+    },
+    {
+        "category": [
+            "Cell Biology",
+            "Plant",
+            "Biology",
+            "Genetics"
+        ],
+        "title": "Understanding Plants - Part II: Fundamentals of Plant Biology",
+        "partner": "Tel Aviv University",
+        "link": "https://www.coursera.org/learn/plant-biology",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 342
+    },
+    {
+        "category": [
+            "Data Pre-Processing",
+            "Feature Selection",
+            "Data Clustering Algorithms",
+            "Genbank Database",
+            "Big Data",
+            "Genomics"
+        ],
+        "title": "Big Data, Genes, and Medicine",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/learn/data-genes-medicine",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "ADVANCED",
+        "users": 102
+    },
+    {
+        "category": [
+            "Nutrition",
+            "Food Safety"
+        ],
+        "title": "Child Nutrition and Cooking",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/childnutrition",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 4769
+    },
+    {
+        "category": [
+            "Nutrition"
+        ],
+        "title": "Biohacking Your Brain's Health",
+        "partner": "Emory University",
+        "link": "https://www.coursera.org/learn/biohacking-your-brains-health",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 42
+    },
+    {
+        "category": [
+            "Nutrition"
+        ],
+        "title": "Nutrition and Lifestyle in Pregnancy",
+        "partner": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU)",
+        "link": "https://www.coursera.org/learn/nutrition-pregnancy",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 508
+    },
+    {
+        "category": [
+            "Nutrition"
+        ],
+        "title": "Dairy Production and Management",
+        "partner": "The Pennsylvania State University",
+        "link": "https://www.coursera.org/learn/dairy-production",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 329
+    },
+    {
+        "category": [
+            "Nutrition"
+        ],
+        "title": "Easing the burden of obesity, diabetes and cardiovascular disease",
+        "partner": "The University of Sydney",
+        "link": "https://www.coursera.org/learn/easing-the-burden-of-obesity-diabetes-cvd",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 25
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Whole Genome Sequencing",
+            "Bioinformatics"
+        ],
+        "title": "Bioinformatics",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/specializations/bioinformatics",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 105,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Bioinformatics",
+            "Dna",
+            "Computer Programming"
+        ],
+        "title": "Finding Hidden Messages in DNA (Bioinformatics I)",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/dna-analysis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 374
+    },
+    {
+        "category": [
+            "Algorithms",
+            "Whole Genome Sequencing"
+        ],
+        "title": "Genome Sequencing (Bioinformatics II)",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/genome-sequencing",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 162
+    },
+    {
+        "category": [
+            "Algorithms"
+        ],
+        "title": "Molecular Evolution (Bioinformatics IV)",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/molecular-evolution",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 40
+    },
+    {
+        "category": [
+            "Clinical Trial Design",
+            "Clinical Trial Management"
+        ],
+        "title": "Design and Interpretation of Clinical Trials",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/clinical-trials",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 1164
+    },
+    {
+        "category": [
+            "Brain Injury Diagnosis / Treatment",
+            "Neurology"
+        ],
+        "title": "Introduction to Clinical Neurology",
+        "partner": "University of California, San Francisco",
+        "link": "https://www.coursera.org/learn/clinical-neurology",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 372
+    },
+    {
+        "category": [
+            "Neurobiology",
+            "Brain"
+        ],
+        "title": "Understanding the Brain: The Neurobiology of Everyday Life",
+        "partner": "The University of Chicago",
+        "link": "https://www.coursera.org/learn/neurobiology",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 50,
+        "level": "BEGINNER",
+        "users": 722
+    },
+    {
+        "category": [
+            "Neurobiology"
+        ],
+        "title": "Advanced Neurobiology I",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/advanced-neurobiology1",
+        "rating": 3.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 245
+    },
+    {
+        "category": [
+            "Neurobiology",
+            "Biology"
+        ],
+        "title": "Advanced Neurobiology II",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/advancedneurobiologyii",
+        "rating": 4.1,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "INTERMEDIATE",
+        "users": 55
+    },
+    {
+        "category": [
+            "Public Health",
+            "Community Health"
+        ],
+        "title": "Foundations of Global Health",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/global-health",
+        "rating": 4.7,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 90,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Public Health",
+            "Clinical Epidemiology"
+        ],
+        "title": "Epidemiology in Public Health Practice",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/epidemiology-public-health",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 228
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "Systems Thinking In Public Health",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/systems-thinking",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 338
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "Understanding and Strengthening Health Systems",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/health-systems",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 60
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "An Introduction to the U.S. Food System: Perspectives from Public Health",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/food-system",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 58
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "Global Health: An Interdisciplinary Overview",
+        "partner": "University of Geneva",
+        "link": "https://www.coursera.org/learn/global-health-overview",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 141
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "Health in Complex Humanitarian Emergencies",
+        "partner": "Emory University",
+        "link": "https://www.coursera.org/learn/health-che",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "INTERMEDIATE",
+        "users": 97
+    },
+    {
+        "category": [
+            "Public Health"
+        ],
+        "title": "Global Health Policy",
+        "partner": "The University of Tokyo",
+        "link": "https://www.coursera.org/learn/global-health-policy",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 71
+    },
+    {
+        "category": [
+            "Antimicrobial",
+            "Genome"
+        ],
+        "title": "Antimicrobial resistance - theory and methods",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/antimicrobial-resistance",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "INTERMEDIATE",
+        "users": 547
+    },
+    {
+        "category": [
+            "Disease Surveillance",
+            "Veterinary"
+        ],
+        "title": "Global Health at the Human-Animal-Ecosystem Interface",
+        "partner": "University of Geneva",
+        "link": "https://www.coursera.org/learn/global-health-human-animal-ecosystem",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 28,
+        "level": "INTERMEDIATE",
+        "users": 82
+    },
+    {
+        "category": [
+            "Matlab",
+            "Molecular Biology",
+            "Biology",
+            "Dynamical Systems"
+        ],
+        "title": "Systems Biology and Biotechnology",
+        "partner": "Icahn School of Medicine at Mount Sinai",
+        "link": "https://www.coursera.org/specializations/systems-biology",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 6,
+        "duration": 97,
+        "level": "INTERMEDIATE",
+        "users": 0
+    },
+    {
+        "category": [
+            "Matlab",
+            "Dynamical Systems"
+        ],
+        "title": "Dynamical Modeling Methods for Systems Biology",
+        "partner": "Icahn School of Medicine at Mount Sinai",
+        "link": "https://www.coursera.org/learn/dynamical-modeling",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 123
+    },
+    {
+        "category": [
+            "Drug Resistance"
+        ],
+        "title": "Metagenomics applied to surveillance of pathogens and antimicrobial resistance",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/metagenomics",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 25
+    },
+    {
+        "category": [
+            "Heart Failure Diagnosis / Treatment"
+        ],
+        "title": "Myocardial Infarction",
+        "partner": "University of Zurich",
+        "link": "https://www.coursera.org/learn/infarction",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 46
+    },
+    {
+        "category": [
+            "Data Management",
+            "Data Collection",
+            "Clinical Trial",
+            "Data Entry"
+        ],
+        "title": "Data Management for Clinical Research",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/clinical-data-management",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 26,
+        "level": "BEGINNER",
+        "users": 445
+    },
+    {
+        "category": [
+            "Brain"
+        ],
+        "title": "Synapses, Neurons and Brains",
+        "partner": "Hebrew University of Jerusalem",
+        "link": "https://www.coursera.org/learn/synapses",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 31,
+        "level": "BEGINNER",
+        "users": 683
+    },
+    {
+        "category": [
+            "Brain",
+            "Cognitive Science"
+        ],
+        "title": "The Brain and Space",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/human-brain",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 229
+    },
+    {
+        "category": [
+            "Brain"
+        ],
+        "title": "Organ Donation: From Death to Life",
+        "partner": "University of Cape Town",
+        "link": "https://www.coursera.org/learn/organ-donation",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 78
+    },
+    {
+        "category": [
+            "Evaluation",
+            "Cost\u2013Benefit Analysis",
+            "Innovation",
+            "Insurance"
+        ],
+        "title": "Healthcare Marketplace",
+        "partner": "University of Minnesota",
+        "link": "https://www.coursera.org/specializations/healthcare-marketplace",
+        "rating": 4.5,
+        "type": "SPECIALIZATION",
+        "course_count": 5,
+        "duration": 78,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Bioinformatics"
+        ],
+        "title": "Comparing Genes, Proteins, and Genomes (Bioinformatics III)",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/comparing-genomes",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 76
+    },
+    {
+        "category": [
+            "Bioinformatics"
+        ],
+        "title": "Finding Mutations in DNA and Proteins (Bioinformatics VI)",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/dna-mutations",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 31
+    },
+    {
+        "category": [
+            "Analytics",
+            "Value-Based Pricing"
+        ],
+        "title": "HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Administrative/IT Perspective)",
+        "partner": "Columbia University",
+        "link": "https://www.coursera.org/learn/hi-five-admin-it",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 84
+    },
+    {
+        "category": [
+            "Dentistry",
+            "Medicine"
+        ],
+        "title": "Introduction to Dental Medicine",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/dental-medicine-penn",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 319
+    },
+    {
+        "category": [
+            "Food Science"
+        ],
+        "title": "The Science of Gastronomy",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/gastronomy",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "BEGINNER",
+        "users": 211
+    },
+    {
+        "category": [
+            "Biomarkers",
+            "Immunotherapy"
+        ],
+        "title": "Introduction to Breast Cancer",
+        "partner": "Yale University",
+        "link": "https://www.coursera.org/learn/breast-cancer-causes-prevention",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 384
+    },
+    {
+        "category": [
+            "Cancer",
+            "Biology"
+        ],
+        "title": "Introduction to the Biology of Cancer",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/cancer",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 1603
+    },
+    {
+        "category": [
+            "Cancer"
+        ],
+        "title": "Understanding Cancer Metastasis",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/cancer-metastasis",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 496
+    },
+    {
+        "category": [
+            "Cancer",
+            "Cancer Biology"
+        ],
+        "title": "Understanding Prostate Cancer",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/prostate-cancer",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 6,
+        "level": "BEGINNER",
+        "users": 119
+    },
+    {
+        "category": [
+            "Cancer",
+            "Medicine"
+        ],
+        "title": "The Oral Cavity: Portal to Health and Disease",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/oralcavity",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 62
+    },
+    {
+        "category": [
+            "Bioinformatics Algorithms",
+            "Computer Programming",
+            "Biology"
+        ],
+        "title": "Biology Meets Programming: Bioinformatics for Beginners",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/bioinformatics",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 504
+    },
+    {
+        "category": [
+            "Drug Development",
+            "Pharmacology",
+            "Clinical Drug Development"
+        ],
+        "title": "Drug Discovery",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/drug-discovery",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 271
+    },
+    {
+        "category": [
+            "Drug Development",
+            "Pharmacology",
+            "Clinical Development"
+        ],
+        "title": "Drug Development",
+        "partner": "University of California San Diego",
+        "link": "https://www.coursera.org/learn/drug-development",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 214
+    },
+    {
+        "category": [
+            "Disease Control",
+            "Disease Biology"
+        ],
+        "title": "Tropical Parasitology: Protozoans, Worms, Vectors and Human Diseases",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/parasitology",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "INTERMEDIATE",
+        "users": 164
+    },
+    {
+        "category": [
+            "Disease Control",
+            "Digestive Health",
+            "Food Safety",
+            "Animal"
+        ],
+        "title": "Sustainable Food Production Through Livestock Health Management",
+        "partner": "University of Illinois at Urbana-Champaign",
+        "link": "https://www.coursera.org/learn/livestock-farming",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 106
+    },
+    {
+        "category": [
+            "Dna"
+        ],
+        "title": "Introduction to Forensic Science",
+        "partner": "Nanyang Technological University, Singapore",
+        "link": "https://www.coursera.org/learn/forensic-science",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 25,
+        "level": "BEGINNER",
+        "users": 415
+    },
+    {
+        "category": [
+            "Dna"
+        ],
+        "title": "DNA Decoded",
+        "partner": "McMaster University",
+        "link": "https://www.coursera.org/learn/dna-decoded",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 54
+    },
+    {
+        "category": [
+            "Dna",
+            "Evolution"
+        ],
+        "title": "Evolution Today",
+        "partner": "Universiteit Leiden",
+        "link": "https://www.coursera.org/learn/evolution-today",
+        "rating": 4.4,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 98
+    },
+    {
+        "category": [
+            "Diagnostic Evaluation",
+            "Surgery"
+        ],
+        "title": "Acute and Chronic Rhinosinusitis: A Comprehensive Review",
+        "partner": "Icahn School of Medicine at Mount Sinai",
+        "link": "https://www.coursera.org/learn/icahn-school-of-medicine-at-mount-sinai-acute-and-chronic-rhinosinusitis",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 3,
+        "level": "BEGINNER",
+        "users": 318
+    },
+    {
+        "category": [
+            "Evolution",
+            "Genetics"
+        ],
+        "title": "Introduction to Genetics and Evolution",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/genetics-evolution",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 39,
+        "level": "BEGINNER",
+        "users": 561
+    },
+    {
+        "category": [
+            "Evolution",
+            "Biology"
+        ],
+        "title": "Paleontology: Theropod Dinosaurs and the Origin of Birds",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/theropods-birds",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 607
+    },
+    {
+        "category": [
+            "Evolution",
+            "Animal"
+        ],
+        "title": "Paleontology: Ancient Marine Reptiles",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/ancient-marine-reptiles",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 461
+    },
+    {
+        "category": [
+            "Evolution"
+        ],
+        "title": "Paleontology: Early Vertebrate Evolution",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/early-vertebrate-evolution",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 440
+    },
+    {
+        "category": [
+            "Evolution"
+        ],
+        "title": "Evolution: A Course for Educators",
+        "partner": "American Museum of Natural History",
+        "link": "https://www.coursera.org/learn/teaching-evolution",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 176
+    },
+    {
+        "category": [
+            "Clinical Epidemiology",
+            "Clinical Research"
+        ],
+        "title": "Clinical Epidemiology",
+        "partner": "Utrecht University",
+        "link": "https://www.coursera.org/learn/clinical-epidemiology",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "INTERMEDIATE",
+        "users": 143
+    },
+    {
+        "category": [
+            "Operations Management",
+            "Financial Statement",
+            "Management",
+            "Behavioral Economics",
+            "Insurance"
+        ],
+        "title": "The Business of Health Care",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/specializations/healthcare-administration-management",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 4,
+        "duration": 38,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Operations Management",
+            "Management",
+            "Behavioral Economics"
+        ],
+        "title": "Health Care Innovation",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/wo-pmo-healthcareinnovation",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 33
+    },
+    {
+        "category": [
+            "Plant"
+        ],
+        "title": "Discover Best Practice Farming for a Sustainable 2050",
+        "partner": "University of Western Australia",
+        "link": "https://www.coursera.org/learn/best-practice-farming-sustainable-2050",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 57
+    },
+    {
+        "category": [
+            "Bacteriology",
+            "Microbiology"
+        ],
+        "title": "Bacteria and Chronic Infections",
+        "partner": "University of Copenhagen",
+        "link": "https://www.coursera.org/learn/bacterial-infections",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 12,
+        "level": "BEGINNER",
+        "users": 612
+    },
+    {
+        "category": [
+            "Human Genetics",
+            "Biology",
+            "Genetics"
+        ],
+        "title": "Genes and the Human Condition (From Behavior to Biotechnology)",
+        "partner": "University of Maryland, College Park",
+        "link": "https://www.coursera.org/learn/genes",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 439
+    },
+    {
+        "category": [
+            "Disease Management"
+        ],
+        "title": "The Horse Course: Introduction to Basic Care and Management",
+        "partner": "University of Florida",
+        "link": "https://www.coursera.org/learn/horse-care",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 420
+    },
+    {
+        "category": [
+            "Digestive Health",
+            "Medicine"
+        ],
+        "title": "Anatomy of the Abdomen and Pelvis; a journey from basis to clinic.",
+        "partner": "Universiteit Leiden",
+        "link": "https://www.coursera.org/learn/abdomen-anatomy",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 33,
+        "level": "BEGINNER",
+        "users": 309
+    },
+    {
+        "category": [
+            "Audience",
+            "Writing"
+        ],
+        "title": "Writing in the Sciences",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/sciwrite",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 24,
+        "level": "BEGINNER",
+        "users": 1005
+    },
+    {
+        "category": [
+            "Clinical Research"
+        ],
+        "title": "The Science of Stem Cells",
+        "partner": "American Museum of Natural History",
+        "link": "https://www.coursera.org/learn/stem-cells",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 87
+    },
+    {
+        "category": [
+            "Animal Behavior",
+            "Animal"
+        ],
+        "title": "Animal Behaviour and Welfare",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/animal-welfare",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 1174
+    },
+    {
+        "category": [
+            "Animal Behavior",
+            "Behavior Problems Diagnosis And Treatment"
+        ],
+        "title": "The Truth About Cats and Dogs",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/cats-and-dogs",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 545
+    },
+    {
+        "category": [
+            "Microbiology",
+            "Medicine"
+        ],
+        "title": "Stories of Infection",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/stories-of-infection",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "INTERMEDIATE",
+        "users": 625
+    },
+    {
+        "category": [
+            "Bioinformatics Analysis"
+        ],
+        "title": "Bioinformatics: Introduction and Methods \u751f\u7269\u4fe1\u606f\u5b66: \u5bfc\u8bba\u4e0e\u65b9\u6cd5",
+        "partner": "Peking University",
+        "link": "https://www.coursera.org/learn/bioinformatics-pku",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 104
+    },
+    {
+        "category": [
+            "Patient Care"
+        ],
+        "title": "Patient Safety",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/specializations/patient-safety",
+        "rating": 4.6,
+        "type": "SPECIALIZATION",
+        "course_count": 7,
+        "duration": 85,
+        "level": "BEGINNER",
+        "users": 0
+    },
+    {
+        "category": [
+            "Patient Care"
+        ],
+        "title": "Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I)",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/patient-safety-systems-view",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "INTERMEDIATE",
+        "users": 205
+    },
+    {
+        "category": [
+            "Dog",
+            "Cognitive Science"
+        ],
+        "title": "Dog Emotion and Cognition",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/dog-emotion-and-cognition",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 2105
+    },
+    {
+        "category": [
+            "Molecular Biology",
+            "Biology"
+        ],
+        "title": "Introduction to Systems Biology",
+        "partner": "Icahn School of Medicine at Mount Sinai",
+        "link": "https://www.coursera.org/learn/systems-biology",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 21,
+        "level": "BEGINNER",
+        "users": 267
+    },
+    {
+        "category": [
+            "Molecular Biology"
+        ],
+        "title": "\u0413\u041c\u041e: \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435",
+        "partner": "Novosibirsk State University",
+        "link": "https://www.coursera.org/learn/gmo",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 16,
+        "level": "BEGINNER",
+        "users": 180
+    },
+    {
+        "category": [
+            "Health Informatics"
+        ],
+        "title": "Health Care IT: Challenges and Opportunities",
+        "partner": "Icahn School of Medicine at Mount Sinai",
+        "link": "https://www.coursera.org/learn/healthcare-it",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "BEGINNER",
+        "users": 118
+    },
+    {
+        "category": [
+            "Health Informatics",
+            "Value-Based Pricing"
+        ],
+        "title": "HI-FIVE: Health Informatics For Innovation, Value & Enrichment (Clinical Perspective)",
+        "partner": "Columbia University",
+        "link": "https://www.coursera.org/learn/hi-five-clinical",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 111
+    },
+    {
+        "category": [
+            "Veterinary",
+            "Animal",
+            "Medicine"
+        ],
+        "title": "EDIVET: Do you have what it takes to be a veterinarian?",
+        "partner": "The University of Edinburgh",
+        "link": "https://www.coursera.org/learn/becoming-a-veterinarian",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 730
+    },
+    {
+        "category": [
+            "Electronic Health Records"
+        ],
+        "title": "eHealth: More than just an electronic record",
+        "partner": "The University of Sydney",
+        "link": "https://www.coursera.org/learn/ehealth",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 75
+    },
+    {
+        "category": [
+            "Immunology",
+            "Surgery"
+        ],
+        "title": "Clinical Kidney, Pancreas and Islet Transplantation",
+        "partner": "Universiteit Leiden",
+        "link": "https://www.coursera.org/learn/clinical-kidney-transplantation",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 193
+    },
+    {
+        "category": [
+            "Chinese Medicine"
+        ],
+        "title": "Everyday Chinese Medicine",
+        "partner": "The Chinese University of Hong Kong",
+        "link": "https://www.coursera.org/learn/everyday-chinese-medicine",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 10,
+        "level": "INTERMEDIATE",
+        "users": 120
+    },
+    {
+        "category": [
+            "Developmental Disorders Diagnosis And Treatment"
+        ],
+        "title": "Positive Psychiatry and Mental Health",
+        "partner": "The University of Sydney",
+        "link": "https://www.coursera.org/learn/positive-psychiatry",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 170
+    },
+    {
+        "category": [
+            "Innovation"
+        ],
+        "title": "Healthcare Innovation and Entrepreneurship",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/healthcare-innovation",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 100
+    },
+    {
+        "category": [
+            "Biodiversity"
+        ],
+        "title": "Ecology: from cells to Gaia",
+        "partner": "National Research Tomsk State University",
+        "link": "https://www.coursera.org/learn/ecology",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 7,
+        "level": "BEGINNER",
+        "users": 53
+    },
+    {
+        "category": [
+            "Geology"
+        ],
+        "title": "Mountains 101",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/mountains-101",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "BEGINNER",
+        "users": 643
+    },
+    {
+        "category": [
+            "Surgery"
+        ],
+        "title": "Introduction to Cataract Surgery",
+        "partner": "University of Michigan",
+        "link": "https://www.coursera.org/learn/cataract-surgery",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "ADVANCED",
+        "users": 79
+    },
+    {
+        "category": [
+            "Home Care"
+        ],
+        "title": "Foundations for Assisting in Home Care",
+        "partner": "The State University of New York",
+        "link": "https://www.coursera.org/learn/home-care",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 23,
+        "level": "BEGINNER",
+        "users": 54
+    },
+    {
+        "category": [
+            "Fitness And Nutrition"
+        ],
+        "title": "Science of Exercise",
+        "partner": "University of Colorado Boulder",
+        "link": "https://www.coursera.org/learn/science-exercise",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 20,
+        "level": "BEGINNER",
+        "users": 493
+    },
+    {
+        "category": [
+            "Biology"
+        ],
+        "title": "Dino 101: Dinosaur Paleobiology",
+        "partner": "University of Alberta",
+        "link": "https://www.coursera.org/learn/dino101",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 718
+    },
+    {
+        "category": [
+            "Biology"
+        ],
+        "title": "Industrial Biotechnology",
+        "partner": "University of Manchester",
+        "link": "https://www.coursera.org/learn/industrial-biotech",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 13,
+        "level": "BEGINNER",
+        "users": 176
+    },
+    {
+        "category": [
+            "Biology"
+        ],
+        "title": "Music as Biology: What We Like to Hear and Why",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/music-as-biology",
+        "rating": 4.2,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 359
+    },
+    {
+        "category": [
+            "Animal"
+        ],
+        "title": "Feeding the World",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/feedingtheworld",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 46
+    },
+    {
+        "category": [
+            "Medicine"
+        ],
+        "title": "Anatomy of the Chest, Abdomen, and Pelvis",
+        "partner": "Yale University",
+        "link": "https://www.coursera.org/learn/trunk-anatomy",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 17,
+        "level": "INTERMEDIATE",
+        "users": 183
+    },
+    {
+        "category": [
+            "Medicine",
+            "Genome",
+            "Genetics",
+            "Cancer Genetics",
+            "Genomics"
+        ],
+        "title": "Genomic and Precision Medicine",
+        "partner": "University of California, San Francisco",
+        "link": "https://www.coursera.org/learn/genomic-precision-medicine",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "INTERMEDIATE",
+        "users": 223
+    },
+    {
+        "category": [
+            "Medicine"
+        ],
+        "title": "Health Concepts in Chinese Medicine",
+        "partner": "The Hong Kong University of Science and Technology",
+        "link": "https://www.coursera.org/learn/health-concepts-chinese-medicine",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 44
+    },
+    {
+        "category": [
+            "Medicine"
+        ],
+        "title": "Case Studies in Personalized Medicine",
+        "partner": "Vanderbilt University",
+        "link": "https://www.coursera.org/learn/personalizedmed",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 14,
+        "level": "BEGINNER",
+        "users": 152
+    },
+    {
+        "category": [
+            "Community Health"
+        ],
+        "title": "Training and Learning Programs for Volunteer Community Health Workers",
+        "partner": "Johns Hopkins University",
+        "link": "https://www.coursera.org/learn/commhealthworkers",
+        "rating": 5.0,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 26
+    },
+    {
+        "category": [
+            "Adolescent Health"
+        ],
+        "title": "Global Adolescent Health",
+        "partner": "The University of Melbourne",
+        "link": "https://www.coursera.org/learn/youth-health",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 22,
+        "level": "BEGINNER",
+        "users": 42
+    },
+    {
+        "category": [
+            "Genome"
+        ],
+        "title": "Whole genome sequencing of bacterial genomes - tools and applications",
+        "partner": "Technical University of Denmark (DTU)",
+        "link": "https://www.coursera.org/learn/wgs-bacteria",
+        "rating": 4.6,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 11,
+        "level": "BEGINNER",
+        "users": 192
+    },
+    {
+        "category": [
+            "Insurance"
+        ],
+        "title": "The Economics of Health Care Delivery",
+        "partner": "University of Pennsylvania",
+        "link": "https://www.coursera.org/learn/health-economics-us-healthcare-systems",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 8,
+        "level": "BEGINNER",
+        "users": 67
+    },
+    {
+        "category": [
+            "Food Security"
+        ],
+        "title": "Stanford Introduction to Food and Health",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/food-and-health",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 4,
+        "level": "BEGINNER",
+        "users": 7370
+    },
+    {
+        "category": [
+            "Health Education"
+        ],
+        "title": "International Women's Health and Human Rights",
+        "partner": "Stanford University",
+        "link": "https://www.coursera.org/learn/womens-health-human-rights",
+        "rating": 4.8,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 49,
+        "level": "BEGINNER",
+        "users": 230
+    },
+    {
+        "category": [
+            "Genetics"
+        ],
+        "title": "\u0413\u0435\u043d\u0435\u0442\u0438\u043a\u0430 (Genetics)",
+        "partner": "Novosibirsk State University",
+        "link": "https://www.coursera.org/learn/nsu-genetics",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 18,
+        "level": "BEGINNER",
+        "users": 396
+    },
+    {
+        "category": [
+            "Genetics"
+        ],
+        "title": "From Disease to Genes and Back",
+        "partner": "Novosibirsk State University",
+        "link": "https://www.coursera.org/learn/disease-genes",
+        "rating": 4.7,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 19,
+        "level": "INTERMEDIATE",
+        "users": 41
+    },
+    {
+        "category": [
+            "Genetics"
+        ],
+        "title": "Genetics and Society: A Course for Educators",
+        "partner": "American Museum of Natural History",
+        "link": "https://www.coursera.org/learn/genetics-society",
+        "rating": 4.5,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 9,
+        "level": "BEGINNER",
+        "users": 71
+    },
+    {
+        "category": [
+            "Neurology"
+        ],
+        "title": "Medical Neuroscience",
+        "partner": "Duke University",
+        "link": "https://www.coursera.org/learn/medical-neuroscience",
+        "rating": 4.9,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 92,
+        "level": "ADVANCED",
+        "users": 1105
+    },
+    {
+        "category": [
+            "Writing"
+        ],
+        "title": "Career 911: Your Future Job in Medicine and Healthcare",
+        "partner": "Northwestern University",
+        "link": "https://www.coursera.org/learn/healthcarejobs",
+        "rating": 4.3,
+        "type": "COURSE",
+        "course_count": 1,
+        "duration": 15,
+        "level": "BEGINNER",
+        "users": 48
+    }
+]
